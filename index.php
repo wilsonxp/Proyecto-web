@@ -2,10 +2,10 @@
 <html lang="es">
     <head>
         <title>Titulo de la web</title>
-        <script type="text/javascript" src="modernizr.custom.87790.js"></script>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 2000px)"href="res>1024.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="res=1024.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="res=600.css"/>
+        <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="res1025.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="res1024.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="res600.css"/>
         <link  type="text/css" rel="stylesheet" href="general.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     </head>
