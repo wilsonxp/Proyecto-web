@@ -1,8 +1,12 @@
+body{
+    font-family: arial, verdana, sans-serif;
+}
 /*-------------HEADER----------*/
 header{
     /*background-color: black;*/
     background-image: url("imagenes/fondo.png");
     height: 100px;
+
 }
 h1{
     font-size: 55px;
@@ -159,7 +163,7 @@ nav ul li a div p{
 
 /*-------SECCION-----------------------*/
 section{
-    padding: 50px 13% 50px 13%;
+    padding: 50px 21% 50px 21%;
 }
 /*-------------FIN SECCION-------------*/
 
