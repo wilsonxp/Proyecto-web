@@ -153,11 +153,17 @@ nav ul li a div p{
     font-weight: 2px;
     margin: 15px;
 }
-.descripcion:first-letter{
+.descripcion p:first-letter{
     color: #2A2A2A;
     font-weight: 4px;
     font-size: 116%;
 
+}
+.descripcion a{
+    border-radius: 10px;
+    background: #19C01B;
+    margin-top: 4px;
+    padding: 6px;
 }
 /*--------------FIN MENU NAVEGACION-------------------------*/
 

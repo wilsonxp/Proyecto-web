@@ -27,9 +27,9 @@
                                 <?php include("imagen1.php");?>
                             </div>
                         </a>
-                        <p class="descripcion">
-                            Curabitur sit amet sem erat. Suspendisse id odio non lectus placerat commodo. Proin mattis pretium nisi sed consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  
-                        </p>    
+                        <div class="descripcion">
+                            <p>Curabitur sit amet sem erat. Suspendisse id odio non lectus placerat commodo. Proin mattis pretium nisi sed consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>  
+                        </div>    
                     </li>
                     <li>
                         <a href="#">
@@ -38,9 +38,10 @@
                                 <?php include("imagen2.php");?>
                             </div>
                         </a>
-                        <p class="descripcion">
-                            Estibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus tortor augue, accumsan euismod ornare nec, fermentum vitae augue.
-                        </p>    
+                        <div class="descripcion">
+                            <p>Estibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus tortor augue, accumsan euismod ornare nec, fermentum vitae augue.</p>
+                            <a href="#">Preguntas frecuentes</a>
+                        </div>    
                     </li>
                     <li>
                         <a href="#">
@@ -49,9 +50,9 @@
                                 <?php include("imagen3.php");?>
                             </div>
                         </a>
-                        <p class="descripcion">
-                            Mauris id ligula metus, vitae pulvinar turpis. Vivamus posuere convallis turpis ac egestas. Sed pellentesque egestas eros id scelerisque.
-                        </p>    
+                        <div class="descripcion">
+                            <p>Mauris id ligula metus, vitae pulvinar turpis. Vivamus posuere convallis turpis ac egestas. Sed pellentesque egestas eros id scelerisque.</p>
+                        </div>   
                     </li>
                 </ul>
                 <div style="clear:both;"></div>
