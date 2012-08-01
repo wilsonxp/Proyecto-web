@@ -1,34 +1,41 @@
-/*TITULO-LOGO*/
-.titulo-logo{
-    background-color: white;
-    -moz-border-radius: 0px 0px 20px 20px;
-    -o-border-radius: 0px 0px 20px 20px;
-    -webkit-border-radius: 0px 0px 20px 20px;
-    border-radius: 0px 0px 20px 20px;
-	box-shadow: 0px 0px 15px 0px; 
-    -webkit-box-shadow: 0px 0px 15px 0px #000;
-    margin-bottom:25px;
-    padding:10px;
+/*-------------HEADER----------*/
+header{
+    /*background-color: black;*/
+    background-image: url("imagenes/fondo.png");
+    height: 100px;
 }
-/*-----------------------------------*/
+h1{
+    font-size: 55px;
+    background-color: white;
+    padding: 3px;
+    display: inline;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+/*-----------FIN HEADER---------*/
 
 
 
 /*MENU DE NAVEGACION*/
 nav{
     /*border:1px solid green;*/
+    background: white;
+    /*padding: 10px;*/
+    padding: 50px 20% 50px 20%;
 }
 nav ul{
-    display:inline;
+    /*border: 1px solid black;*/
+    display:inline-block;
 }
 nav ul li{
     float:left;
     list-style:none;
-    margin-left:1%;
-    width:27%;
+    margin-left:2%;
+    width:31%;
 }
 nav ul li:first-child{
-    margin-left:8.5%;
+    /*margin-left:8.5%;*/
 }
 nav ul li a{
     color: white;
@@ -128,16 +135,27 @@ nav ul li a div p{
     padding: 15px 5px 0px 5px;
     text-align: center;
 }
-/*--------------------------------------------------*/
 
-/*-------------HEADER----------*/
-header{
-    border-bottom: 1px solid #A4A4A4;
-    margin-bottom:20px;
-    padding-bottom:20px;
+.descripcion{
+    margin-top: 10px;
+    color: #525252; 
+    font-size: 110%;
+    font-weight: 2px;
+    margin: 15px;
 }
-/*---------------------------------*/
+.descripcion:first-letter{
+    color: #2A2A2A;
+    font-weight: 4px;
+    font-size: 116%;
 
+}
+/*--------------FIN MENU NAVEGACION-------------------------*/
+
+/*-------SECCION-----------------------*/
+section{
+    padding: 50px 13% 50px 13%;
+}
+/*-------------FIN SECCION-------------*/
 
 /*-----------FOOTER-----------------*/
 footer{

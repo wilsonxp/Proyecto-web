@@ -13,38 +13,48 @@
         <div id="contenido">
             <header>
                 <div class="titulo-logo">
-                    <h1>titulo de la web</h1>
-                </div>
-                <nav>
-                    <ul>
-                        <li>
-                            <a href="#">
-                                <div class="caja1">
-                                    <p>Servicios Web</p>
-                                    <?php include("imagen1.php");?>
-                                </div>
-                            </a>    
-                        </li>
-                        <li>
-                            <a href="#">
-                                <div class="caja2">
-                                    <p>¿Quienes somos?</p>
-                                    <?php include("imagen2.php");?>
-                                </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <div class="caja3">
-                                    <p>Contacto</p>
-                                    <?php include("imagen3.php");?>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-                <div style="clear:both;"></div>
+                    <h1>Entweb</h1>
+                </div>            
+                
             </header>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#">
+                            <div class="caja1">
+                                <p>Servicios Web</p>
+                                <?php include("imagen1.php");?>
+                            </div>
+                        </a>
+                        <p class="descripcion">
+                            Curabitur sit amet sem erat. Suspendisse id odio non lectus placerat commodo. Proin mattis pretium nisi sed consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  
+                        </p>    
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="caja2">
+                                <p>¿Quienes somos?</p>
+                                <?php include("imagen2.php");?>
+                            </div>
+                        </a>
+                        <p class="descripcion">
+                            Estibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus tortor augue, accumsan euismod ornare nec, fermentum vitae augue.
+                        </p>    
+                    </li>
+                    <li>
+                        <a href="#">
+                            <div class="caja3">
+                                <p>Contacto</p>
+                                <?php include("imagen3.php");?>
+                            </div>
+                        </a>
+                        <p class="descripcion">
+                            Mauris id ligula metus, vitae pulvinar turpis. Vivamus posuere convallis turpis ac egestas. Sed pellentesque egestas eros id scelerisque.
+                        </p>    
+                    </li>
+                </ul>
+                <div style="clear:both;"></div>
+            </nav>
             <section>
                 <article>
                     <h2>¿Porque tener una web?</h2>
