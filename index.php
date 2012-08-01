@@ -21,7 +21,7 @@
                             <a href="#">
                                 <div class="caja1">
                                     <p>Servicios Web</p>
-                                    <?php include("imagen2.php");?>
+                                    <?php include("imagen1.php");?>
                                 </div>
                             </a>    
                         </li>
@@ -29,7 +29,7 @@
                             <a href="#">
                                 <div class="caja2">
                                     <p>¿Quienes somos?</p>
-                                    <?php include("imagen3.php");?>
+                                    <?php include("imagen2.php");?>
                                 </div>
                             </a>
                         </li>
@@ -37,7 +37,7 @@
                             <a href="#">
                                 <div class="caja3">
                                     <p>Contacto</p>
-                                    <?php include("imagen.php");?>
+                                    <?php include("imagen3.php");?>
                                 </div>
                             </a>
                         </li>
