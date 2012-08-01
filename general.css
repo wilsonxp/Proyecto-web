@@ -163,13 +163,14 @@ nav ul li a div p{
 
 /*-------SECCION-----------------------*/
 section{
+    background: #EFEFEF;
     padding: 50px 21% 50px 21%;
 }
 /*-------------FIN SECCION-------------*/
 
 /*-----------FOOTER-----------------*/
 footer{
-    border-top:1px solid #A4A4A4;
-    margin-top:10px;
+    background: black;
+    color: white;
     padding-top:5px;
 }
