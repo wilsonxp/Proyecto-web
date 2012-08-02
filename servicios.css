@@ -1,0 +1,45 @@
+body{
+    font-family: arial, verdana, sans-serif;
+}
+/*-------------HEADER----------*/
+header{
+    /*background-color: black;*/
+    background-image: url("imagenes/fondo.png");
+    height: 100px;
+
+}
+h1{
+    font-size: 55px;
+    background-color: white;
+    padding: 3px;
+    display: inline;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+}
+/*-----------FIN HEADER---------*/
+
+/*MENU DE NAVEGACION*/
+nav{
+}
+nav ul{
+    background-image: url("imagenes/fondo.png");
+    border-radius: 0px 0px 10px 10px;
+    display:inline-block;
+    width: 50%;
+}
+nav ul li{
+    float:left;
+    list-style:none;
+    margin-left:2px;
+    text-align: center;
+    width:32%;
+}
+nav ul li a{
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    text-decoration:none;
+    font-weight: bold;
+}
+/*----FIN MENU NAVEGACION----*/
