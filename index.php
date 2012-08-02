@@ -14,7 +14,7 @@
         <div id="contenido">
             <header>
                 <div class="titulo-logo">
-                    <h1>Entweb</h1>
+                    <h1>Buble</h1>
                 </div>            
                 
             </header>
