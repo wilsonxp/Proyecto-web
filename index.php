@@ -21,7 +21,6 @@
                     <li><a href="http://twitter.com/"><img class="iconos" src="imagenes/twitter.png"/></a></li>
                     <li><a href="https://plus.google.com"><img class="iconos" src="imagenes/google+.png"/></a></li>
                 </ul>            
-                
             </header>
             <nav>
                 <ul>

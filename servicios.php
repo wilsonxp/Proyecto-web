@@ -15,7 +15,12 @@
             <header>
                 <div class="titulo-logo">
                     <h1>Entweb</h1>
-                </div>            
+                </div>
+                <ul>
+                    <li><a href="https://www.facebook.com/"><img class="iconos" src="imagenes/facebook.png"/></a></li>
+                    <li><a href="http://twitter.com/"><img class="iconos" src="imagenes/twitter.png"/></a></li>
+                    <li><a href="https://plus.google.com"><img class="iconos" src="imagenes/google+.png"/></a></li>
+                </ul>            
             </header>
             <nav>
                 <ul>
