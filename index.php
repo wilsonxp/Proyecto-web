@@ -20,7 +20,7 @@
             </header>
             <nav>
                 <ul>
-                    <li>
+                    <li class="li1">
                         <a href="#">
                             <div class="caja1">
                                 <p>Servicios Web</p>
@@ -29,9 +29,10 @@
                         </a>
                         <div class="descripcion">
                             <p>Curabitur sit amet sem erat. Suspendisse id odio non lectus placerat commodo. Proin mattis pretium nisi sed consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>  
+                            <a href="#">Ofertas</a>
                         </div>    
                     </li>
-                    <li>
+                    <li class="li2">
                         <a href="#">
                             <div class="caja2">
                                 <p>¿Quienes somos?</p>
@@ -43,7 +44,7 @@
                             <a href="#">Preguntas frecuentes</a>
                         </div>    
                     </li>
-                    <li>
+                    <li class="li3">
                         <a href="#">
                             <div class="caja3">
                                 <p>Contacto</p>
@@ -52,6 +53,7 @@
                         </a>
                         <div class="descripcion">
                             <p>Mauris id ligula metus, vitae pulvinar turpis. Vivamus posuere convallis turpis ac egestas. Sed pellentesque egestas eros id scelerisque.</p>
+                            <a href="#">Mopitz</a>
                         </div>   
                     </li>
                 </ul>
