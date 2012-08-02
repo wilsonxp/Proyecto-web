@@ -25,8 +25,6 @@ h1{
 nav{
     /*border:1px solid green;*/
     background: white;
-    /*padding: 10px;*/
-    padding: 50px 20% 50px 20%;
 }
 nav ul{
     /*border: 1px solid black;*/
@@ -177,7 +175,9 @@ nav ul li a div p{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#1e5799',GradientType=0 ); /* IE6-8 */
     /*------------------------*/
     margin-top: 4px;
+    min-width: 80%;
     padding: 6px;
+    text-align: center;
 }
 .li2 div a{
     border-radius: 10px;
@@ -194,7 +194,9 @@ nav ul li a div p{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ae079', endColorstr='#1d9329',GradientType=0 ); /* IE6-8 */
     /*------------------------*/
     margin-top: 4px;
+    min-width: 80%;
     padding: 6px;
+    text-align: center;
 }
 .li3 div a{
     border-radius: 10px;
@@ -211,14 +213,15 @@ nav ul li a div p{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff935e', endColorstr='#ff6816',GradientType=0 ); /* IE6-8 */
     /*------------------------*/
     margin-top: 4px;
+    min-width: 80%;
     padding: 6px;
+    text-align: center;
 }
 /*--------------FIN MENU NAVEGACION-------------------------*/
 
 /*-------SECCION-----------------------*/
 section{
     background: #EFEFEF;
-    padding: 50px 21% 50px 21%;
 }
 /*-------------FIN SECCION-------------*/
 
