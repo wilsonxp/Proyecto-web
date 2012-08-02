@@ -231,6 +231,18 @@ nav ul li a div p{
 /*-------SECCION-----------------------*/
 section{
     background: #EFEFEF;
+    border:1px solid lime;
+}
+article{
+    display: inline-block;
+    width: 48%;
+}
+.a1{
+    border-right:1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+.a2{
+    padding: 3px 3px 3px 15px;
 }
 /*-------------FIN SECCION-------------*/
 

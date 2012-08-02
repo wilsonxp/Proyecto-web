@@ -60,8 +60,12 @@
                 <div style="clear:both;"></div>
             </nav>
             <section>
-                <article>
+                <article class="a1">
                     <h2>¿Porque tener una web?</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit luctus leo vitae volutpat. Sed imperdiet scelerisque consequat. Nullam eu turpis elit. Donec libero massa, interdum et lobortis sed, consequat at ante. Mauris tortor sapien, fermentum vitae dictum et, commodo at sem. Praesent neque lectus, bibendum quis consequat nec, porttitor eu ante. Sed risus nisi, tincidunt sodales mattis vitae, vulputate eget tellus. Integer id urna mi, sit amet imperdiet ipsum. Mauris rhoncus turpis nec sem facilisis et pellentesque diam tincidunt. </p>
+                </article>
+                <article class="a2">
+                    <h2>¿lsndjasncsdj?</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit luctus leo vitae volutpat. Sed imperdiet scelerisque consequat. Nullam eu turpis elit. Donec libero massa, interdum et lobortis sed, consequat at ante. Mauris tortor sapien, fermentum vitae dictum et, commodo at sem. Praesent neque lectus, bibendum quis consequat nec, porttitor eu ante. Sed risus nisi, tincidunt sodales mattis vitae, vulputate eget tellus. Integer id urna mi, sit amet imperdiet ipsum. Mauris rhoncus turpis nec sem facilisis et pellentesque diam tincidunt. </p>
                 </article>
             </section>
