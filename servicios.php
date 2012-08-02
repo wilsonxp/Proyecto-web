@@ -20,13 +20,13 @@
             <nav>
                 <ul>
                     <li class="li1">
-                        <a href="">enlace 1</a>
+                        <a href="">Inicio</a>
                     </li>
                     <li class="li2">
-                        <a href="">enlace 2</a>
+                        <a href="">¿Quienes somos?</a>
                     </li>
                     <li class="li3">
-                        <a href="">enlace 3</a>
+                        <a href="">Contacto</a>
                     </li>
                 </ul>
             </nav>
