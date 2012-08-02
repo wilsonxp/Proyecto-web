@@ -19,9 +19,15 @@
             </header>
             <nav>
                 <ul>
-                    <li><a href="">enlace 1</a></li>
-                    <li><a href="">enlace 2</a></li>
-                    <li><a href="">enlace 3</a></li>
+                    <li class="li1">
+                        <a href="">enlace 1</a>
+                    </li>
+                    <li class="li2">
+                        <a href="">enlace 2</a>
+                    </li>
+                    <li class="li3">
+                        <a href="">enlace 3</a>
+                    </li>
                 </ul>
             </nav>
             <section>
