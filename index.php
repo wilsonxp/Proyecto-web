@@ -17,9 +17,9 @@
                     <h1>Buble</h1>
                 </div>
                 <ul>
-                    <li><a href="https://www.facebook.com/"><img src="imagenes/Facebook.png"/></a></li>
-                    <li><a href="http://twitter.com/"><img src="imagenes/Twitter.png"/></a></li>
-                    <li><a href="https://plus.google.com"><img src="imagenes/Google+.png"/></a></li>
+                    <li><a href="https://www.facebook.com/"><img class="iconos" src="imagenes/facebook.png"/></a></li>
+                    <li><a href="http://twitter.com/"><img class="iconos" src="imagenes/twitter.png"/></a></li>
+                    <li><a href="https://plus.google.com"><img class="iconos" src="imagenes/google+.png"/></a></li>
                 </ul>            
                 
             </header>
