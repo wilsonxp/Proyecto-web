@@ -5,7 +5,7 @@
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
         <link  type="text/css" rel="stylesheet" href="reset.css"/>
         <link  type="text/css" rel="stylesheet" href="servicios.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="res1025.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="res1025-servicios.css"/>
         <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="res1024-servicios.css"/>
         <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="res600.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
