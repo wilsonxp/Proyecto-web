@@ -154,12 +154,11 @@ nav ul li a div p{
     margin-top: 10px;
     color: #525252; 
     font-size: 110%;
-    font-weight: 2px;
+    
     margin: 15px;
 }
 .descripcion p:first-letter{
     color: #2A2A2A;
-    font-weight: 4px;
     font-size: 116%;
 
 }
