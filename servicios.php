@@ -20,7 +20,7 @@
             <nav>
                 <ul>
                     <li class="li1">
-                        <a href="">Inicio</a>
+                        <a href="index.php">Inicio</a>
                     </li>
                     <li class="li2">
                         <a href="">¿Quienes somos?</a>

@@ -41,6 +41,7 @@ nav ul li:first-child{
     /*margin-left:8.5%;*/
 }
 nav ul li a{
+    border: 1px solid white;
     color: white;
     text-decoration:none;
 }
