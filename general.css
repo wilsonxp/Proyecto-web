@@ -249,14 +249,14 @@ section{
 }
 article{
     display: inline-block;
-    width: 48%;
+    width: 46%;
 }
 .a1{
     border-right:1px solid #D1D1D1;
-    padding: 3px 12px 3px 3px;
+    padding: 3px 25px 3px 3px;
 }
 .a2{
-    padding: 3px 3px 3px 7px;
+    padding: 3px 3px 3px 20px;
 }
 /*-------------FIN SECCION-------------*/
 
