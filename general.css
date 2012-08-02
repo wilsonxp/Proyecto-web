@@ -28,8 +28,7 @@ h1{
 /*MENU DE NAVEGACION*/
 nav{
     /*border:1px solid green;*/
-    background: white;
-    background-image: url("imagenes/fondo-n-2.png");
+    background-image: url("imagenes/fondo-n-4.png");
 }
 nav ul{
     /*border: 1px solid black;*/
@@ -46,7 +45,6 @@ nav ul li:first-child{
     /*margin-left:8.5%;*/
 }
 nav ul li a{
-    border: 1px solid white;
     color: white;
     text-decoration:none;
 }
