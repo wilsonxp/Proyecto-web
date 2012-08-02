@@ -15,7 +15,12 @@
             <header>
                 <div class="titulo-logo">
                     <h1>Buble</h1>
-                </div>            
+                </div>
+                <ul>
+                    <li><a href="https://www.facebook.com/"><img src="imagenes/Facebook.png"/></a></li>
+                    <li><a href="http://twitter.com/"><img src="imagenes/Twitter.png"/></a></li>
+                    <li><a href="https://plus.google.com"><img src="imagenes/Google+.png"/></a></li>
+                </ul>            
                 
             </header>
             <nav>
