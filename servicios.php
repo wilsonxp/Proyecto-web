@@ -37,8 +37,121 @@
             </nav>
             <section>
                 <article>
-                    <h2>¿Porque tener una web?</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit luctus leo vitae volutpat. Sed imperdiet scelerisque consequat. Nullam eu turpis elit. Donec libero massa, interdum et lobortis sed, consequat at ante. Mauris tortor sapien, fermentum vitae dictum et, commodo at sem. Praesent neque lectus, bibendum quis consequat nec, porttitor eu ante. Sed risus nisi, tincidunt sodales mattis vitae, vulputate eget tellus. Integer id urna mi, sit amet imperdiet ipsum. Mauris rhoncus turpis nec sem facilisis et pellentesque diam tincidunt. </p>
+                    <table class="pack1" CELLSPACING=0 CELLPADDING=0>
+                        <tr>
+                            <td>Pack basico</td>
+                        </tr>
+                        <tr>
+                            <td>1000 GB espacio</td>
+                        </tr>
+                        <tr>
+                            <td>1 Base de datos</td>
+                        </tr>
+                        <tr>
+                            <td>10 Correos</td>
+                        </tr>
+                        <tr>
+                            <td>5 paginas</td>
+                        </tr>
+                        <tr>
+                            <td>Logo incluido</td>
+                        </tr>
+                        <tr>
+                            <td>Imagenes</td>
+                        </tr>
+                    </table>
+                    <table class="pack2" CELLSPACING=0 CELLPADDING=0>
+                        <tr>
+                            <td>Pack 1</td>
+                        </tr>
+                        <tr>
+                            <td>1000 GB espacio</td>
+                        </tr>
+                        <tr>
+                            <td>1 Base de datos</td>
+                        </tr>
+                        <tr>
+                            <td>10 Correos</td>
+                        </tr>
+                        <tr>
+                            <td>5 paginas</td>
+                        </tr>
+                        <tr>
+                            <td>Logo incluido</td>
+                        </tr>
+                        <tr>
+                            <td>Imagenes</td>
+                        </tr>
+                    </table>
+                    <table class="pack3" CELLSPACING=0 CELLPADDING=0>
+                        <tr>
+                            <td>Pack 1</td>
+                        </tr>
+                        <tr>
+                            <td>1000 GB espacio</td>
+                        </tr>
+                        <tr>
+                            <td>1 Base de datos</td>
+                        </tr>
+                        <tr>
+                            <td>10 Correos</td>
+                        </tr>
+                        <tr>
+                            <td>5 paginas</td>
+                        </tr>
+                        <tr>
+                            <td>Logo incluido</td>
+                        </tr>
+                        <tr>
+                            <td>Imagenes</td>
+                        </tr>
+                    </table>
+                    <table class="pack4" CELLSPACING=0 CELLPADDING=0>
+                        <tr>
+                            <td>Pack 1</td>
+                        </tr>
+                        <tr>
+                            <td>1000 GB espacio</td>
+                        </tr>
+                        <tr>
+                            <td>1 Base de datos</td>
+                        </tr>
+                        <tr>
+                            <td>10 Correos</td>
+                        </tr>
+                        <tr>
+                            <td>5 paginas</td>
+                        </tr>
+                        <tr>
+                            <td>Logo incluido</td>
+                        </tr>
+                        <tr>
+                            <td>Imagenes</td>
+                        </tr>
+                    </table>
+                    <table class="pack5" CELLSPACING=0 CELLPADDING=0>
+                        <tr>
+                            <td>Pack 1</td>
+                        </tr>
+                        <tr>
+                            <td>1000 GB espacio</td>
+                        </tr>
+                        <tr>
+                            <td>1 Base de datos</td>
+                        </tr>
+                        <tr>
+                            <td>10 Correos</td>
+                        </tr>
+                        <tr>
+                            <td>5 paginas</td>
+                        </tr>
+                        <tr>
+                            <td>Logo incluido</td>
+                        </tr>
+                        <tr>
+                            <td>Imagenes</td>
+                        </tr>
+                    </table>
                 </article>
             </section>
             <footer>

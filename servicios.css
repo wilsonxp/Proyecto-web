@@ -5,8 +5,10 @@ body{
 header{
     /*background-color: black;*/
     background-image: url("imagenes/fondo.png");
-    -webkit-box-shadow: 0px 5px 3px 0px ;
-    box-shadow: 0px 5px 3px 0px ;
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
     display: inline-block;
     height: 100px;
     margin-bottom: -4px;
@@ -44,8 +46,10 @@ nav{
 }
 nav ul{
     background-image: url("imagenes/fondo.png");
-    -webkit-box-shadow: 0px 5px 3px 0px ;
-    box-shadow: 0px 5px 3px 0px ;
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
     border-radius: 0px 0px 10px 10px;
     display:inline-block;
     width: 75%;
@@ -71,3 +75,41 @@ nav ul li a{
     border-right:1px solid #464646;
 }
 /*----FIN MENU NAVEGACION----*/
+
+
+
+/*----INICIO SECTION----*/
+section{
+    background-image: url("imagenes/fondo-n-4.png");
+}
+article{
+    /*border:1px solid black;*/
+}
+table{
+    border:1px solid red;
+    -moz-border-radius:10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display:inline-block;
+    width: 19.56%;
+}
+td{
+    border-bottom:1px solid black;
+    display: block;
+    padding: 5px;
+    width: 107%;
+    /*-moz-border-radius:10px;
+    border-radius: 10px;*/
+}
+tr:last-child td{
+    border:none;
+}
+/*----FIN SECTION----*/
+
+
+/*-----------FOOTER-----------------*/
+footer{
+    background: black;
+    color: white;
+    padding-top:5px;
+}
+/*-----FIN FOOTER-------*/
