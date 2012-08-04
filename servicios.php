@@ -37,7 +37,7 @@
             </nav>
             <section>
                 <article>
-                    <table class="pack1" CELLSPACING=0 CELLPADDING=0>
+                    <table class="pack1">
                         <tr>
                             <td>Pack basico</td>
                         </tr>
@@ -60,7 +60,7 @@
                             <td>Imagenes</td>
                         </tr>
                     </table>
-                    <table class="pack2" CELLSPACING=0 CELLPADDING=0>
+                    <table class="pack2">
                         <tr>
                             <td>Pack 1</td>
                         </tr>
@@ -83,7 +83,7 @@
                             <td>Imagenes</td>
                         </tr>
                     </table>
-                    <table class="pack3" CELLSPACING=0 CELLPADDING=0>
+                    <table class="pack3">
                         <tr>
                             <td>Pack 1</td>
                         </tr>
@@ -106,7 +106,7 @@
                             <td>Imagenes</td>
                         </tr>
                     </table>
-                    <table class="pack4" CELLSPACING=0 CELLPADDING=0>
+                    <table class="pack4">
                         <tr>
                             <td>Pack 1</td>
                         </tr>
@@ -129,7 +129,7 @@
                             <td>Imagenes</td>
                         </tr>
                     </table>
-                    <table class="pack5" CELLSPACING=0 CELLPADDING=0>
+                    <table class="pack5">
                         <tr>
                             <td>Pack 1</td>
                         </tr>
@@ -152,6 +152,7 @@
                             <td>Imagenes</td>
                         </tr>
                     </table>
+                    <div style="clear:both;"></div>
                 </article>
             </section>
             <footer>

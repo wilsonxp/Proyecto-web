@@ -11,7 +11,7 @@ header{
     box-shadow: 0px 5px 3px 0px black;
     display: inline-block;
     height: 100px;
-    margin-bottom: -4px;
+    margin-bottom: -5px;
     width: 100%;
 }
 header ul{
@@ -52,7 +52,7 @@ nav ul{
     box-shadow: 0px 5px 3px 0px black;
     border-radius: 0px 0px 10px 10px;
     display:inline-block;
-    width: 75%;
+    width: 100%;    /*es 100 pero luego con el padding de nav se achica y se centra*/
 }
 nav ul li{
     float:left;
@@ -83,24 +83,31 @@ section{
     background-image: url("imagenes/fondo-n-4.png");
 }
 article{
-    /*border:1px solid black;*/
+    border:1px solid black;
 }
 table{
     border:1px solid red;
     -moz-border-radius:10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
-    display:inline-block;
-    width: 19.56%;
+    border-spacing: 0;
+    float: left;
+    margin-left: 4px;
+    width: 19%;
 }
 td{
     border-bottom:1px solid black;
     display: block;
     padding: 5px;
-    width: 107%;
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }
-tr:last-child td{
+article table:first-child{
+    margin-left: 0px;
+}
+article table:last-child{
+    margin-right: 0px;
+}
+table tr:last-child td{
     border:none;
 }
 /*----FIN SECTION----*/
