@@ -83,7 +83,7 @@ section{
     background-image: url("imagenes/fondo-n-4.png");
 }
 article{
-    border:1px solid black;
+    /*border:1px solid black;*/
 }
 table{
     /*border:1px solid red;*/
