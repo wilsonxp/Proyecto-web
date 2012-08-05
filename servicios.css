@@ -59,7 +59,7 @@ nav ul li{
     list-style:none;
     margin-left:2px;
     text-align: center;
-    width:32%;
+    width:32.8%;
 }
 nav ul li a{
     color: white;
@@ -86,18 +86,32 @@ article{
     border:1px solid black;
 }
 table{
-    border:1px solid red;
+    /*border:1px solid red;*/
     -moz-border-radius:10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
     border-spacing: 0;
     float: left;
-    margin-left: 4px;
-    width: 19%;
+    margin-left: 1.5%;
+    font-size: 100%;
+    width: 18.8%;
+}
+th{
+    background-color: #068CD4; 
+    border-bottom:1px solid black;
+    -moz-border-radius:10px 10px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
+    display: block;
+    padding: 7px;
+    text-align: center;
+    /*-moz-border-radius:10px;
+    border-radius: 10px;*/
 }
 td{
+    background-color: #CFCFCF;
     border-bottom:1px solid black;
     display: block;
-    padding: 5px;
+    padding: 7px;
+    text-align: center;
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }

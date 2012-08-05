@@ -39,16 +39,7 @@
                 <article>
                     <table class="pack1">
                         <tr>
-                            <td>Pack basico</td>
-                        </tr>
-                        <tr>
-                            <td>1000 GB espacio</td>
-                        </tr>
-                        <tr>
-                            <td>1 Base de datos</td>
-                        </tr>
-                        <tr>
-                            <td>10 Correos</td>
+                            <th>Plan basico</th>
                         </tr>
                         <tr>
                             <td>5 paginas</td>
@@ -57,12 +48,21 @@
                             <td>Logo incluido</td>
                         </tr>
                         <tr>
-                            <td>Imagenes</td>
+                            <td>Formulario contacto</td>
+                        </tr>
+                        <tr>
+                            <td>Uso HTML5</td>
+                        </tr>
+                        <tr>
+                            <td>Uso CSS3</td>
+                        </tr>
+                        <tr>
+                            <td>Pagina estatica</td>
                         </tr>
                     </table>
                     <table class="pack2">
                         <tr>
-                            <td>Pack 1</td>
+                            <th>Pack 1</th>
                         </tr>
                         <tr>
                             <td>1000 GB espacio</td>
@@ -85,7 +85,7 @@
                     </table>
                     <table class="pack3">
                         <tr>
-                            <td>Pack 1</td>
+                            <th>Pack 1</th>
                         </tr>
                         <tr>
                             <td>1000 GB espacio</td>
@@ -108,7 +108,7 @@
                     </table>
                     <table class="pack4">
                         <tr>
-                            <td>Pack 1</td>
+                            <th>Pack 1</th>
                         </tr>
                         <tr>
                             <td>1000 GB espacio</td>
@@ -131,7 +131,7 @@
                     </table>
                     <table class="pack5">
                         <tr>
-                            <td>Pack 1</td>
+                            <th>Pack 1</th>
                         </tr>
                         <tr>
                             <td>1000 GB espacio</td>
