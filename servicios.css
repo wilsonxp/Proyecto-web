@@ -37,6 +37,7 @@ h1{
 .iconos {
     width: 45px;
     height: 45px;
+
 }
 /*-----------FIN HEADER---------*/
 
@@ -109,7 +110,7 @@ th{
     display: block;
     padding: 5%;
     text-align: center;
-    font-family: 'FrankItalic';
+    font-family: 'verdana';
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }
