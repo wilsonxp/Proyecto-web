@@ -115,7 +115,11 @@ th{
     padding: 5%;
     text-align: center;
     font-family: 'Arial';
+<<<<<<< HEAD
     width: 200px;
+=======
+    height: 100%;
+>>>>>>> d229fcd05f1f19a90279ade9df0f636f21dde485
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }
