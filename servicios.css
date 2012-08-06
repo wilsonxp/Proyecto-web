@@ -37,7 +37,10 @@ h1{
 .iconos {
     width: 45px;
     height: 45px;
-
+    -webkit-box-shadow: 0px 0px 4px 1px #fff;
+    box-shadow: 0px 0px 4px 1px #fff;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;  
 }
 /*-----------FIN HEADER---------*/
 
