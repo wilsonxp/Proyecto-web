@@ -105,7 +105,6 @@ table{
     width: 100%;
 }
 th{
-    float: right;
     background-color: #068CD4; 
     border-bottom:1px solid white;
     -moz-border-radius:10px 10px 0px 0px;
@@ -114,7 +113,6 @@ th{
     display: block;
     padding: 5%;
     text-align: center;
-    font-family: 'Arial';
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }
