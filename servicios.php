@@ -64,11 +64,10 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
-                        <svg>
-                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
-                        </svg>
-                        <div class="precio">
-                            <p>$90.000</p>
+                        <div>
+                            <svg>
+                                <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                            </svg>
                         </div>
                     </div>                  
                     <div class="pack2">
@@ -98,9 +97,11 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
-                        <svg>
-                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
-                        </svg>
+                        <div>
+                            <svg>
+                                <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                            </svg>
+                        </div>
                     </div>                    
                     <div class="pack3">
                         <table>
@@ -129,9 +130,11 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
-                        <svg>
-                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
-                        </svg>
+                        <div>
+                            <svg>
+                                <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                            </svg>
+                        </div>
                     </div>
                     <div class="pack4">
                         <table>
@@ -153,9 +156,11 @@
                                 <td>Mysql</td>
                             </tr>
                         </table>
-                        <svg>
-                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
-                        </svg>
+                        <div>
+                            <svg>
+                                <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                            </svg>
+                        </div>
                     </div>                   
                     <div class="pack5">
                         <table>
@@ -169,9 +174,11 @@
                                 <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
                             </tr>
                         </table>
-                        <svg>
-                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
-                        </svg>
+                        <div>
+                            <svg>
+                                <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                            </svg>
+                        </div>
                     </div>   
                     <div style="clear:both;"></div>        
                 </article>
