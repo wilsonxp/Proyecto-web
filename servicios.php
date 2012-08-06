@@ -174,12 +174,11 @@
                                 <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
                             </tr>
                         </table>
-                        <div style="border:1px solid black;">
+                        <div style="/*border:1px solid black;*/">
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
                             </svg>
                         </div>
-                        lala
                     </div>   
                     <div style="clear:both;"></div>        
                 </article>
