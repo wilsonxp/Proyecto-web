@@ -101,6 +101,7 @@ table{
     width: 100%;
 }
 th{
+    float: right;
     background-color: #068CD4; 
     border-bottom:1px solid white;
     -moz-border-radius:10px 10px 0px 0px;
