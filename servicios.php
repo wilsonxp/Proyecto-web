@@ -37,115 +37,143 @@
             </nav>
             <section>
                 <article>
-                    <table class="pack1">
-                        <tr>
-                            <th>Plan basico</th>
-                        </tr>
-                        <tr>
-                            <td>5 paginas</td>
-                        </tr>
-                        <tr>
-                            <td>Logo incluido</td>
-                        </tr>
-                        <tr>
-                            <td>Formulario contacto</td>
-                        </tr>
-                        <tr>
-                            <td>Uso HTML5</td>
-                        </tr>
-                        <tr>
-                            <td>Uso CSS3</td>
-                        </tr>
-                        <tr>
-                            <td>Estatica</td>
-                        </tr>
-                        <tr>
-                            <td>Base de datos</td>
-                        </tr>
-                    </table>
-                    <table class="pack2">
-                        <tr>
-                            <th>Plan medio</th>
-                        </tr>
-                        <tr>
-                            <td>10 paginas</td>
-                        </tr>
-                        <tr>
-                            <td>Logo incluido</td>
-                        </tr>
-                        <tr>
-                            <td>Formulario contacto</td>
-                        </tr>
-                        <tr>
-                            <td>Uso HTML5</td>
-                        </tr>
-                        <tr>
-                            <td>Uso CSS3</td>
-                        </tr>
-                        <tr>
-                            <td>Estatica</td>
-                        </tr>
-                        <tr>
-                            <td>Base de datos</td>
-                        </tr>
-                    </table>
-                    <table class="pack3">
-                        <tr>
-                            <th>Plan avanzado</th>
-                        </tr>
-                        <tr>
-                            <td>15 paginas</td>
-                        </tr>
-                        <tr>
-                            <td>Logo incluido</td>
-                        </tr>
-                        <tr>
-                            <td>Formulario contacto</td>
-                        </tr>
-                        <tr>
-                            <td>Uso HTML5</td>
-                        </tr>
-                        <tr>
-                            <td>Uso CSS3</td>
-                        </tr>
-                        <tr>
-                            <td>Estatica</td>
-                        </tr>
-                        <tr>
-                            <td>Base de datos</td>
-                        </tr>
-                    </table>
-                    <table class="pack4">
-                        <tr>
-                            <th>Plan aplicacion</th>
-                        </tr>
-                        <tr>
-                            <td>
-                                <img src="imagenes/app-web.jpg">
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>1 Base de datos</td>
-                        </tr>
-                        <tr>
-                            <td>Dinamica</td>
-                        </tr>
-                        <tr>
-                            <td>Mysql</td>
-                        </tr>
-                    </table>
-                    <table class="pack5">
-                        <tr>
-                            <th>Plan dinamico</th>
-                        </tr>
-                            <td>
-                                <img src="imagenes/dinamico.jpg">
-                            </td>
-                        <tr>
-                            <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
-                        </tr>
-                    </table>
-                    <div style="clear:both;"></div>
+                    <div class="pack1">
+                        <table>
+                            <tr>
+                                <th>Plan basico</th>
+                            </tr>
+                            <tr>
+                                <td>5 paginas</td>
+                            </tr>
+                            <tr>
+                                <td>Logo incluido</td>
+                            </tr>
+                            <tr>
+                                <td>Formulario contacto</td>
+                            </tr>
+                            <tr>
+                                <td>Uso HTML5</td>
+                            </tr>
+                            <tr>
+                                <td>Uso CSS3</td>
+                            </tr>
+                            <tr>
+                                <td>Estatica</td>
+                            </tr>
+                            <tr>
+                                <td>Base de datos</td>
+                            </tr>
+                        </table>
+                        <svg>
+                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                        </svg>
+                        <div class="precio">
+                            <p>$90.000</p>
+                        </div>
+                    </div>                  
+                    <div class="pack2">
+                        <table>
+                            <tr>
+                                <th>Plan medio</th>
+                            </tr>
+                            <tr>
+                                <td>10 paginas</td>
+                            </tr>
+                            <tr>
+                                <td>Logo incluido</td>
+                            </tr>
+                            <tr>
+                                <td>Formulario contacto</td>
+                            </tr>
+                            <tr>
+                                <td>Uso HTML5</td>
+                            </tr>
+                            <tr>
+                                <td>Uso CSS3</td>
+                            </tr>
+                            <tr>
+                                <td>Estatica</td>
+                            </tr>
+                            <tr>
+                                <td>Base de datos</td>
+                            </tr>
+                        </table>
+                        <svg>
+                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                        </svg>
+                    </div>                    
+                    <div class="pack3">
+                        <table>
+                            <tr>
+                                <th>Plan avanzado</th>
+                            </tr>
+                            <tr>
+                                <td>15 paginas</td>
+                            </tr>
+                            <tr>
+                                <td>Logo incluido</td>
+                            </tr>
+                            <tr>
+                                <td>Formulario contacto</td>
+                            </tr>
+                            <tr>
+                                <td>Uso HTML5</td>
+                            </tr>
+                            <tr>
+                                <td>Uso CSS3</td>
+                            </tr>
+                            <tr>
+                                <td>Estatica</td>
+                            </tr>
+                            <tr>
+                                <td>Base de datos</td>
+                            </tr>
+                        </table>
+                        <svg>
+                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                        </svg>
+                    </div>
+                    <div class="pack4">
+                        <table>
+                            <tr>
+                                <th>Plan aplicacion</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <img src="imagenes/app-web.jpg">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>1 Base de datos</td>
+                            </tr>
+                            <tr>
+                                <td>Dinamica</td>
+                            </tr>
+                            <tr>
+                                <td>Mysql</td>
+                            </tr>
+                        </table>
+                        <svg>
+                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                        </svg>
+                    </div>                   
+                    <div class="pack5">
+                        <table>
+                            <tr>
+                                <th>Plan dinamico</th>
+                            </tr>
+                                <td>
+                                    <img src="imagenes/dinamico.jpg">
+                                </td>
+                            <tr>
+                                <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
+                            </tr>
+                        </table>
+                        <svg>
+                            <polygon points="0,0 80,0 40,50" fill="#CFCFCF">
+                        </svg>
+                    </div>   
+                    <div style="clear:both;"></div>        
                 </article>
             </section>
             <footer>

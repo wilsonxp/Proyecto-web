@@ -82,18 +82,18 @@ nav ul li a{
 section{
     background-image: url("imagenes/fondo-n-4.png");
 }
-article{
-    /*border:1px solid black;*/
+.pack1,.pack2,.pack3,.pack4,.pack5{
+    /*border:1px solid red;*/
+    float: left;
+    margin-left: 1.5%;
+    width: 18.8%;
 }
 table{
     /*border:1px solid red;*/
     -moz-border-radius:10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
     border-spacing: 0;
-    float: left;
-    margin-left: 1.5%;
-    font-size: 100%;
-    width: 18.8%;
+    width: 100%;   
 }
 th{
     background-color: #068CD4; 
@@ -115,16 +115,16 @@ td{
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
 }
-article table:first-child{
+article div:first-child{
     margin-left: 0px;
 }
-article table:last-child{
+article div:last-child{
     margin-right: 0px;
 }
 table tr:last-child td{
     border:none;
 }
-.pack5 tr:last-child td{
+.pack5 table tr:last-child td{
     min-height: 87px;
     font-size: 90%;
 }
@@ -132,7 +132,11 @@ table tr td img{
     width: 100%;
     height: 116px;
 }
-
+.precio{
+    background-color: lime;
+    -moz-border-radius:10px 10px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
+}
 /*----FIN SECTION----*/
 
 
