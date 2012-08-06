@@ -57,99 +57,92 @@
                             <td>Uso CSS3</td>
                         </tr>
                         <tr>
-                            <td>Pagina estatica</td>
+                            <td>Estatica</td>
+                        </tr>
+                        <tr>
+                            <td>Base de datos</td>
                         </tr>
                     </table>
                     <table class="pack2">
                         <tr>
-                            <th>Pack 1</th>
+                            <th>Plan medio</th>
                         </tr>
                         <tr>
-                            <td>1000 GB espacio</td>
-                        </tr>
-                        <tr>
-                            <td>1 Base de datos</td>
-                        </tr>
-                        <tr>
-                            <td>10 Correos</td>
-                        </tr>
-                        <tr>
-                            <td>5 paginas</td>
+                            <td>10 paginas</td>
                         </tr>
                         <tr>
                             <td>Logo incluido</td>
                         </tr>
                         <tr>
-                            <td>Imagenes</td>
+                            <td>Formulario contacto</td>
+                        </tr>
+                        <tr>
+                            <td>Uso HTML5</td>
+                        </tr>
+                        <tr>
+                            <td>Uso CSS3</td>
+                        </tr>
+                        <tr>
+                            <td>Estatica</td>
+                        </tr>
+                        <tr>
+                            <td>Base de datos</td>
                         </tr>
                     </table>
                     <table class="pack3">
                         <tr>
-                            <th>Pack 1</th>
+                            <th>Plan avanzado</th>
                         </tr>
                         <tr>
-                            <td>1000 GB espacio</td>
-                        </tr>
-                        <tr>
-                            <td>1 Base de datos</td>
-                        </tr>
-                        <tr>
-                            <td>10 Correos</td>
-                        </tr>
-                        <tr>
-                            <td>5 paginas</td>
+                            <td>15 paginas</td>
                         </tr>
                         <tr>
                             <td>Logo incluido</td>
                         </tr>
                         <tr>
-                            <td>Imagenes</td>
+                            <td>Formulario contacto</td>
+                        </tr>
+                        <tr>
+                            <td>Uso HTML5</td>
+                        </tr>
+                        <tr>
+                            <td>Uso CSS3</td>
+                        </tr>
+                        <tr>
+                            <td>Estatica</td>
+                        </tr>
+                        <tr>
+                            <td>Base de datos</td>
                         </tr>
                     </table>
                     <table class="pack4">
                         <tr>
-                            <th>Pack 1</th>
+                            <th>Plan aplicacion</th>
                         </tr>
                         <tr>
-                            <td>1000 GB espacio</td>
+                            <td>
+                                <img src="imagenes/app-web.jpg">
+                            </td>
                         </tr>
                         <tr>
                             <td>1 Base de datos</td>
                         </tr>
                         <tr>
-                            <td>10 Correos</td>
+                            <td>Dinamica</td>
                         </tr>
                         <tr>
-                            <td>5 paginas</td>
-                        </tr>
-                        <tr>
-                            <td>Logo incluido</td>
-                        </tr>
-                        <tr>
-                            <td>Imagenes</td>
+                            <td>Mysql</td>
                         </tr>
                     </table>
                     <table class="pack5">
                         <tr>
-                            <th>Pack 1</th>
+                            <th>Plan dinamico</th>
                         </tr>
+                            <td>
+                                <img src="imagenes/dinamico.jpg">
+                            </td>
                         <tr>
-                            <td>1000 GB espacio</td>
-                        </tr>
-                        <tr>
-                            <td>1 Base de datos</td>
-                        </tr>
-                        <tr>
-                            <td>10 Correos</td>
-                        </tr>
-                        <tr>
-                            <td>5 paginas</td>
-                        </tr>
-                        <tr>
-                            <td>Logo incluido</td>
-                        </tr>
-                        <tr>
-                            <td>Imagenes</td>
+                            <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
                         </tr>
                     </table>
                     <div style="clear:both;"></div>
