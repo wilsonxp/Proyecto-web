@@ -64,6 +64,10 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
+                        <div class="caja-precio">
+                            <p class="desde">desde</p>
+                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
                         <div>
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF" style="stroke:white; stroke-width:1;">
@@ -97,6 +101,10 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
+                        <div class="caja-precio">
+                            <p class="desde">desde</p>
+                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
                         <div>
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
@@ -130,6 +138,10 @@
                                 <td>Base de datos</td>
                             </tr>
                         </table>
+                        <div class="caja-precio">
+                            <p class="desde">desde</p>
+                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
                         <div>
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
@@ -156,6 +168,10 @@
                                 <td>Mysql</td>
                             </tr>
                         </table>
+                        <div class="caja-precio">
+                            <p class="desde">desde</p>
+                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
                         <div>
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
@@ -174,6 +190,10 @@
                                 <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
                             </tr>
                         </table>
+                        <div class="caja-precio">
+                            <p class="desde">desde</p>
+                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
                         <div>
                             <svg>
                                 <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
