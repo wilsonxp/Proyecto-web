@@ -4,7 +4,7 @@ body{
 /*-------------HEADER----------*/
 header{
     /*background-color: black;*/
-    background-image: url("imagenes/fondo.png");
+    background-image: url("../../imagenes/fondo.png");
     -webkit-box-shadow: 0px 5px 3px 0px black;
     -moz-box-shadow: 0px 5px 3px 0px black;
     -o-box-shadow: 0px 5px 3px 0px black;
@@ -46,10 +46,10 @@ h1{
 
 /*MENU DE NAVEGACION*/
 nav{
-    background-image: url("imagenes/fondo-n-4.png");
+    background-image: url("../../imagenes/fondo-n-4.png");
 }
 nav ul{
-    background-image: url("imagenes/fondo.png");
+    background-image: url("../../imagenes/fondo.png");
     -webkit-box-shadow: 0px 5px 3px 0px black;
     -moz-box-shadow: 0px 5px 3px 0px black;
     -o-box-shadow: 0px 5px 3px 0px black;
@@ -84,7 +84,7 @@ nav ul li a{
 
 /*----INICIO SECTION----*/
 section{
-    background-image: url("imagenes/fondo-n-4.png");
+    background-image: url("../../imagenes/fondo-n-4.png");
 }
 article{
     border:1px solid black;
