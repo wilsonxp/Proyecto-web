@@ -92,15 +92,16 @@ article{
     width: 18.8%;
 }
 table{
-    /*border:1px solid red;*/
-    -moz-border-radius:10px 10px 10px 10px;
-    border-radius: 10px 10px 10px 10px;
+    border:1px solid white;
+    -moz-border-radius:10px 10px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
     border-spacing: 0;
     width: 100%;   
 }
 th{
     background-color: #068CD4; 
-    border-bottom:1px solid black;
+    border-bottom:1px solid white;
+    color: white;
     -moz-border-radius:10px 10px 0px 0px;
     border-radius: 10px 10px 0px 0px;
     display: block;
@@ -111,7 +112,7 @@ th{
 }
 td{
     background-color: #CFCFCF;
-    border-bottom:1px solid black;
+    border-bottom:1px solid white;
     display: block;
     padding: 5%;
     text-align: center;

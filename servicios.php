@@ -66,7 +66,7 @@
                         </table>
                         <div>
                             <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
+                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF" style="stroke:white; stroke-width:1;">
                             </svg>
                         </div>
                     </div>                  
