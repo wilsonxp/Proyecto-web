@@ -41,6 +41,22 @@ h1{
 
 /*-----------FIN HEADER---------*/
 
+/*-------BIENVENIDA----------*/
+#bienvenida{
+    background-color: #EFEFEF;
+}
+#bienvenida p{
+    border-bottom: 1px solid #959595;
+    color: #313030;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#bienvenida p span{
+    color: #2E56B3;
+    font-weight: bold;
+    font-size: 120%;
+}
+/*-------FIN BIENVENIDA---------*/
 
 
 /*MENU DE NAVEGACION*/
@@ -49,18 +65,17 @@ nav{
     background-image: url("../../imagenes/fondo-n-4.png");
 }
 nav ul{
-    /*border: 1px solid black;*/
     display:inline-block;
 }
 nav ul li{
     float:left;
     list-style:none;
     margin-left:4%;
-    width:27%;
+    width:30.7%;
     /*border: 1px solid black;*/
 }
 nav ul li:first-child{
-    /*margin-left:8.5%;*/
+    margin-left:0px;
 }
 nav ul li a{
     color: white;
