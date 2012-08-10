@@ -3,11 +3,11 @@
     <head>
         <title>Titulo de la web</title>
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
-        <link  type="text/css" rel="stylesheet" href="reset.css"/>
-        <link  type="text/css" rel="stylesheet" href="general.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="res1025.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="res1024.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="res600.css"/>
+        <link  type="text/css" rel="stylesheet" href="css/general/reset.css"/>
+        <link  type="text/css" rel="stylesheet" href="css/index/index.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="css/index/res1025.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="css/index/res1024.css"/>
+        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="css/index/res600.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     </head>
     <body>
@@ -22,13 +22,16 @@
                     <li><a href="https://plus.google.com"><img class="iconos" src="imagenes/google+.png"/></a></li>
                 </ul>            
             </header>
+            <div id="bienvenida">
+                <p><span>Bienvenido</span> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
             <nav>
                 <ul>
                     <li class="li1">
                         <a href="servicios.php">
                             <div class="caja1">
                                 <p>Servicios Web</p>
-                                <?php include("imagen1.php");?>
+                                <?php include("imagenes/imagen1.php");?>
                             </div>
                         </a>
                         <div class="descripcion">
@@ -40,7 +43,7 @@
                         <a href="#">
                             <div class="caja2">
                                 <p>¿Quienes somos?</p>
-                                <?php include("imagen2.php");?>
+                                <?php include("imagenes/imagen2.php");?>
                             </div>
                         </a>
                         <div class="descripcion">
@@ -52,7 +55,7 @@
                         <a href="#">
                             <div class="caja3">
                                 <p>Contacto</p>
-                                <?php include("imagen3.php");?>
+                                <?php include("imagenes/imagen3.php");?>
                             </div>
                         </a>
                         <div class="descripcion">
