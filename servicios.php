@@ -35,6 +35,9 @@
                     </li>
                 </ul>
             </nav>
+            <div id="bienvenida">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
             <section>
                 <article>
                     <div class="pack1">
@@ -60,18 +63,15 @@
                             <tr>
                                 <td>Estatica</td>
                             </tr>
-                            <tr>
-                                <td>Base de datos</td>
-                            </tr>
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
                             <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
+                        <div class="contratar">
+                            <a href="#">Contratar</a>
+                        </div>
                         <div>
-                            <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF" style="stroke:white; stroke-width:1;">
-                            </svg>
                         </div>
                     </div>                  
                     <div class="pack2">
@@ -97,18 +97,15 @@
                             <tr>
                                 <td>Estatica</td>
                             </tr>
-                            <tr>
-                                <td>Base de datos</td>
-                            </tr>
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
-                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="precio">$120.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
+                        <div class="contratar">
+                            <a href="#">Contratar</a>
                         </div>
                         <div>
-                            <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
-                            </svg>
                         </div>
                     </div>                    
                     <div class="pack3">
@@ -134,18 +131,15 @@
                             <tr>
                                 <td>Estatica</td>
                             </tr>
-                            <tr>
-                                <td>Base de datos</td>
-                            </tr>
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
-                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="precio">$170.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
+                        <div class="contratar">
+                            <a href="#">Contratar</a>
                         </div>
                         <div>
-                            <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
-                            </svg>
                         </div>
                     </div>
                     <div class="pack4">
@@ -159,7 +153,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td>1 Base de datos</td>
+                                <td>Base de datos</td>
                             </tr>
                             <tr>
                                 <td>Dinamica</td>
@@ -170,12 +164,12 @@
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
-                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="precio">$50.000</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
+                        <div class="contratar">
+                            <a href="#">Contratar</a>
                         </div>
                         <div>
-                            <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
-                            </svg>
                         </div>
                     </div>                   
                     <div class="pack5">
@@ -192,15 +186,38 @@
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
-                            <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="precio">Variable</p><span class="no-incluye-host">(no incluye host)</span>
+                        </div>
+                        <div class="contratar">
+                            <a href="#">Contratar</a>
                         </div>
                         <div>
-                            <svg>
-                                <polygon points="0,0 36,0 18,30" fill="#CFCFCF">
-                            </svg>
                         </div>
                     </div>   
                     <div style="clear:both;"></div>        
+                </article>
+            </section>
+            <section>
+                <h2>Descripcion</h2>
+                <article>
+                    <h3>Plan basico</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </article>
+                <article>
+                    <h3>Plan medio</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </article>
+                <article>
+                    <h3>Plan avanzado</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </article>
+                <article>
+                    <h3>Plan aplicacion</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                </article>
+                <article>
+                    <h3>Plan dinamico</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </article>
             </section>
             <footer>
