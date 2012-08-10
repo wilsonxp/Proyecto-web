@@ -66,13 +66,13 @@ nav{
 }
 nav ul{
     display:inline-block;
+    /*border: 1px solid black;*/
 }
 nav ul li{
     float:left;
     list-style:none;
     margin-left:4%;
-    width:30.7%;
-    /*border: 1px solid black;*/
+    width:30.66%;
 }
 nav ul li:first-child{
     margin-left:0px;

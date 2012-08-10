@@ -14,7 +14,7 @@
         <div id="contenido">
             <header>
                 <div class="titulo-logo">
-                    <h1>Entweb</h1>
+                    <h1>VidaWeb</h1>
                 </div>
                 <ul>
                     <li><a href="https://www.facebook.com/"><img class="iconos" src="imagenes/facebook.png"/></a></li>

@@ -37,10 +37,10 @@ h1{
 .iconos {
     width: 45px;
     height: 45px;
-    -webkit-box-shadow: 0px 0px 4px 1px #fff;
+    /*-webkit-box-shadow: 0px 0px 4px 1px #fff;
     box-shadow: 0px 0px 4px 1px #fff;
     -webkit-border-radius: 4px;
-    border-radius: 4px;  
+    border-radius: 4px;*/  
 }
 /*-----------FIN HEADER---------*/
 
@@ -95,6 +95,7 @@ nav ul li a{
 /*----INICIO SECTION (CAJAS)----*/
 section{
     background-image: url("../../imagenes/fondo-n-4.png");
+    display: inline-block;
 }
 article{
     /*border:1px solid black;*/
