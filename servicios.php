@@ -71,8 +71,8 @@
                         <div class="contratar">
                             <a href="#">Contratar</a>
                         </div>
-                        <div>
-                        </div>
+                        <!--<div>
+                        </div>-->
                     </div>                  
                     <div class="pack2">
                         <table>
@@ -105,8 +105,8 @@
                         <div class="contratar">
                             <a href="#">Contratar</a>
                         </div>
-                        <div>
-                        </div>
+                        <!--<div>
+                        </div>-->
                     </div>                    
                     <div class="pack3">
                         <table>
@@ -139,8 +139,8 @@
                         <div class="contratar">
                             <a href="#">Contratar</a>
                         </div>
-                        <div>
-                        </div>
+                        <!--<div>
+                        </div>-->
                     </div>
                     <div class="pack4">
                         <table>
@@ -169,8 +169,8 @@
                         <div class="contratar">
                             <a href="#">Contratar</a>
                         </div>
-                        <div>
-                        </div>
+                        <!--<div>
+                        </div>-->
                     </div>                   
                     <div class="pack5">
                         <table>
@@ -191,8 +191,8 @@
                         <div class="contratar">
                             <a href="#">Contratar</a>
                         </div>
-                        <div>
-                        </div>
+                        <!--<div>
+                        </div>-->
                     </div>   
                     <div style="clear:both;"></div>        
                 </article>

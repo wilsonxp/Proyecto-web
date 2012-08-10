@@ -95,6 +95,7 @@ nav ul li a{
 /*----INICIO SECTION (CAJAS)----*/
 section{
     background-image: url("../../imagenes/fondo-n-4.png");
+    /*border:1px solid black;*/
     display: inline-block;
 }
 article{
