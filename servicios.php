@@ -164,7 +164,7 @@
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
-                            <p class="precio">$50.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="precio">$60.000</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
                             <a href="#">Contratar</a>
