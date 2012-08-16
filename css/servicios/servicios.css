@@ -98,9 +98,10 @@ nav ul li a{
     border:1px solid transparent;
 }
 #tablas article{
-    border:1px solid black;
+    /*border:1px solid black;*/
     font-size: 0;
     margin: 0 auto;
+    margin-bottom: 20px;
     margin-top: 20px;
     text-align: center;
     width: 80%;
@@ -109,6 +110,7 @@ nav ul li a{
     /*border:1px solid red;*/
     display: inline-block;
     margin-left: 2%;
+    text-align: left;
     vertical-align: top;
     width: 18.4%;
 }
@@ -138,7 +140,7 @@ td{
     background-color: #CFCFCF;
     border-bottom:1px solid white;
     display: block;
-    padding: 5%;
+    padding: 10px;
     text-align: center;
     /*-moz-border-radius:10px;
     border-radius: 10px;*/
@@ -153,12 +155,13 @@ table tr:last-child td{
     border:none;
 }
 .pack5 table tr:last-child td{
+    max-height: 99px;
     min-height: 99px;
     font-size: 90%;
 }
 table tr td img{
     width: 100%;
-    height: 94px;
+    height: 95px;
 }
 .caja-precio{
     /*------------------------*/
@@ -183,7 +186,7 @@ table tr td img{
 /*-----------CAJA PRECIO-----------*/
 .desde{
     font-size: 85%;
-    margin-left: 20%;
+    margin-left: 20px;
 }
 .precio{
     display: inline-block;
@@ -245,9 +248,57 @@ footer{
     padding-top:5px;
 }
 /*-----FIN FOOTER-------*/
+
+
+@media only screen and (max-width:1320px){
+    .pack1,.pack2,.pack3,.pack4,.pack5{
+        margin-left: 0.5%;
+        width: 19.6%;
+    }
+}
+
+@media only screen and (max-width:1239px){
+    .caja-precio{
+        height: 55px;
+    }
+}
+
+@media only screen and (max-width:1041px){
+    table tr td img{
+        height: 113px;
+    }
+}
+
+@media only screen and (max-width:889px){
+    #tablas article{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width:800px){
+    .pack1,.pack2,.pack3{
+        margin-bottom: 20px;
+        margin-left: 3%;
+        width: 31.3%;
+    }
+    .caja-precio{
+        height: auto;
+    }
+    .pack4, .pack5{
+        margin-left: 3%;
+        width: 33%;
+    }
+}
+
 @media only screen and (max-width:750px){
     nav ul{
         width: 80%;
+    }
+}
+
+@media only screen and (max-width:690px){
+    .caja-precio{
+        height: 55px;
     }
 }
 
@@ -268,5 +319,35 @@ footer{
     }
     nav ul{
         width: 90%;
+    }
+}
+
+@media only screen and (max-width:470px){
+    .pack1, .pack2, .pack3, .pack4, .pack5{
+        width: 48%;
+    }
+    .pack2, .pack4{
+        margin-left: 4%;
+    }
+    .pack1, .pack3, .pack5{
+        margin-left: 0;
+    }
+    .caja-precio{
+        height: auto;
+    }
+    .pack4 table tr td img{
+        height: 94px;
+    }
+}
+
+@media only screen and (max-width:451px){
+    .caja-precio{
+        height: 55px;
+    }
+}
+
+@media only screen and (max-width:379px){
+    .pack4 table tr td img{
+        height: 113px;
     }
 }
