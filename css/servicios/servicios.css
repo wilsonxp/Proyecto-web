@@ -155,8 +155,7 @@ table tr:last-child td{
     border:none;
 }
 .pack5 table tr:last-child td{
-    max-height: 99px;
-    min-height: 99px;
+    height: 139px;
     font-size: 90%;
 }
 table tr td img{

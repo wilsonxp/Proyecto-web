@@ -63,6 +63,9 @@
                             <tr>
                                 <td>Estatica</td>
                             </tr>
+                            <tr>
+                                <td>Todo dispositivo</td>
+                            </tr>
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
@@ -96,6 +99,9 @@
                             </tr>
                             <tr>
                                 <td>Estatica</td>
+                            </tr>
+                            <tr>
+                                <td>Todo dispositivo</td>
                             </tr>
                         </table>
                         <div class="caja-precio">
@@ -131,6 +137,9 @@
                             <tr>
                                 <td>Estatica</td>
                             </tr>
+                            <tr>
+                                <td>Todo dispositivo</td>
+                            </tr>
                         </table>
                         <div class="caja-precio">
                             <p class="desde">desde</p>
@@ -160,6 +169,9 @@
                             </tr>
                             <tr>
                                 <td>Mysql</td>
+                            </tr>
+                            <tr>
+                                <td>Todo dispositivo</td>
                             </tr>
                         </table>
                         <div class="caja-precio">
