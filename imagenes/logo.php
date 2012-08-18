@@ -1,3 +1,4 @@
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="logov10.svg">
+   sodipodi:docname="logov12.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -21,11 +22,11 @@
       <stop
          id="stop6666"
          offset="0"
-         style="stop-color:#00df00;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
       <stop
          id="stop6668"
          offset="1"
-         style="stop-color:#00a300;stop-opacity:1" />
+         style="stop-color:#bfbfbf;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -2737,9 +2738,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0688398"
-     inkscape:cx="192.66555"
-     inkscape:cy="84.660477"
+     inkscape:zoom="3.1306576"
+     inkscape:cx="124.51538"
+     inkscape:cy="33.831515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2762,7 +2763,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
