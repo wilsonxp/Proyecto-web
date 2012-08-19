@@ -4,20 +4,20 @@ body{
 /*-------------HEADER----------*/
 header{
     /*background-color: black;*/
-    background-image: url("../../imagenes/fondo.png");
+    background-image: url("../../imagenes/asfalt.png");
     -webkit-box-shadow: 0px 5px 3px 0px black;
     -moz-box-shadow: 0px 5px 3px 0px black;
     -o-box-shadow: 0px 5px 3px 0px black;
     box-shadow: 0px 5px 3px 0px black;
-    display: inline-block;;
+    display: inline-block;
     width: 100%;
     height: auto;
 
 }
 header ul{
     float: right;
-    margin-top: 27.5px;
-    margin-right: 100px;
+    margin-top: 23.715px;
+    margin-right: 8%;
 
 }
 header ul li{
@@ -27,12 +27,12 @@ header ul li{
 }
 .titulo-logo{
     display: inline-block;
-    padding: 15.3px;
+    padding: 17px;
     margin-left: 8%;
 }
 .iconos {
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
 }
 
 /*-----------FIN HEADER---------*/

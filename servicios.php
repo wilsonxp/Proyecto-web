@@ -14,7 +14,7 @@
         <div id="contenido">
             <header>
                 <div class="titulo-logo">
-                    <?php include("imagenes/logo.php"); ?>
+                    <a href="index.php"><?php include("imagenes/logo.php"); ?></a>
                 </div>
                 <ul>
                     <li><a href="https://www.facebook.com/"><img class="iconos" src="imagenes/facebook.png"/></a></li>
@@ -67,6 +67,7 @@
                                 <td>Todo dispositivo</td>
                             </tr>
                         </table>
+                        <div class="flecha"><?php include("imagenes/flecha.php");?></div>
                         <div class="caja-precio">
                             <p class="desde">aprox</p>
                             <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
@@ -104,6 +105,7 @@
                                 <td>Todo dispositivo</td>
                             </tr>
                         </table>
+                        <div class="flecha"><?php include("imagenes/flecha.php");?></div>
                         <div class="caja-precio">
                             <p class="desde">aprox</p>
                             <p class="precio">$120.000</p><span class="no-incluye-host">(no incluye host)</span>
@@ -141,6 +143,7 @@
                                 <td>Todo dispositivo</td>
                             </tr>
                         </table>
+                        <div class="flecha"><?php include("imagenes/flecha.php");?></div>
                         <div class="caja-precio">
                             <p class="desde">aprox</p>
                             <p class="precio">$170.000</p><span class="no-incluye-host">(no incluye host)</span>
@@ -174,6 +177,7 @@
                                 <td>Todo dispositivo</td>
                             </tr>
                         </table>
+                        <div class="flecha"><?php include("imagenes/flecha.php");?></div>
                         <div class="caja-precio">
                             <p class="desde">aprox</p>
                             <p class="precio">Variable</p><span class="no-incluye-host">(no incluye host)</span>
@@ -196,6 +200,7 @@
                                 <td>Si ningun plan es adecuado para tus nesesidades, puedes elegir este plan y contruirlo a tu medida</td>
                             </tr>
                         </table>
+                        <div class="flecha"><?php include("imagenes/flecha.php");?></div>
                         <div class="caja-precio">
                             <p class="desde">aprox</p>
                             <p class="precio">Variable</p><span class="no-incluye-host">(no incluye host)</span>

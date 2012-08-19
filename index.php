@@ -11,7 +11,7 @@
         <div id="contenido">
             <header>
                 <div class="titulo-logo">
-                    <?php include("imagenes/logo.php"); ?>
+                    <a href="index.php"><?php include("imagenes/logo.php"); ?></a>
                 </div>
                 <ul>
                     <li><a href="https://www.facebook.com/"><img class="iconos" src="imagenes/facebook.png"/></a></li>
