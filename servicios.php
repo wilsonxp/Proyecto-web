@@ -68,7 +68,7 @@
                             </tr>
                         </table>
                         <div class="caja-precio">
-                            <p class="desde">desde</p>
+                            <p class="desde">aprox</p>
                             <p class="precio">$80.000</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
@@ -105,7 +105,7 @@
                             </tr>
                         </table>
                         <div class="caja-precio">
-                            <p class="desde">desde</p>
+                            <p class="desde">aprox</p>
                             <p class="precio">$120.000</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
@@ -142,7 +142,7 @@
                             </tr>
                         </table>
                         <div class="caja-precio">
-                            <p class="desde">desde</p>
+                            <p class="desde">aprox</p>
                             <p class="precio">$170.000</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
@@ -175,8 +175,8 @@
                             </tr>
                         </table>
                         <div class="caja-precio">
-                            <p class="desde">desde</p>
-                            <p class="precio">$60.000</p><span class="no-incluye-host">(no incluye host)</span>
+                            <p class="desde">aprox</p>
+                            <p class="precio">Variable</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
                             <a href="#">Contratar</a>
@@ -197,7 +197,7 @@
                             </tr>
                         </table>
                         <div class="caja-precio">
-                            <p class="desde">desde</p>
+                            <p class="desde">aprox</p>
                             <p class="precio">Variable</p><span class="no-incluye-host">(no incluye host)</span>
                         </div>
                         <div class="contratar">
@@ -210,7 +210,7 @@
                 </article>
             </section>
             <section id="des-tablas">
-                <h2>Descripcion</h2>
+                <h2>Descripcion de planes</h2>
                 <article>
                     <h3>Plan basico</h3>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>

@@ -5,9 +5,6 @@
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
         <link  type="text/css" rel="stylesheet" href="css/general/reset.css"/>
         <link  type="text/css" rel="stylesheet" href="css/index/index.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="css/index/res1025.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="css/index/res1024.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="css/index/res600.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     </head>
     <body>

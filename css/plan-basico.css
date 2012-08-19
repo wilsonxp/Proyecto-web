@@ -1,0 +1,217 @@
+body{
+    font-family: arial, verdana, sans-serif;
+}
+/*-------------HEADER----------*/
+header{
+    /*background-color: black;*/
+    background-image: url("../imagenes/fondo.png");
+    /*-webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;*/
+    margin: 0;
+    width: 100%;
+}
+header ul{
+    float: right;
+    margin-top: 27.5px;
+    margin-right: 100px;
+
+}
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 10px;
+}
+.titulo-logo{
+    display: inline-block;
+    padding: 15.3px;
+    margin-left: 8%;
+}
+.iconos {
+    width: 45px;
+    height: 45px;
+}
+
+/*-----------FIN HEADER---------*/
+
+/*MENU DE NAVEGACION*/
+nav{
+    background-image: url("../imagenes/fondo-n-4.png");
+    text-align: center;
+}
+nav ul{
+    background-image: url("../imagenes/fondo.png");
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
+    border-radius: 0px 0px 10px 10px;
+    display: inline-block;
+    font-size: 0;
+    margin-top: -2px;
+    text-align: center;
+    vertical-align: top;
+    width: 60%;
+}
+nav ul li{
+    box-sizing:border-box;
+    display: inline-block;
+    font-size: 16px;
+    list-style:none;
+    text-align: center;
+    vertical-align: top;
+    width:33.3%;
+}
+nav ul li a{
+    color: white;
+    display: block;
+    padding: 7px 0;
+    text-decoration:none;
+    font-weight: bold;
+}
+.li2{
+    border-left: 1px solid #464646;
+    border-right:1px solid #464646;
+}
+/*----FIN MENU NAVEGACION----*/
+
+
+/*----DESCRIPCION PLAN------*/
+#des-plan-basico{
+    background-image: url("../imagenes/fondo-n-4.png");
+    border: 1px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#des-plan-basico p{
+    margin: 0 auto;
+    width: 70%;
+}
+/*----FIN DESCRIPCION PLAN------*/
+
+
+/*----PLAN-----*/
+#plan-basico{
+    background-image: url("../imagenes/fondo-n-4.png");
+    border: 1px solid lime;
+}
+#plan-basico table {
+    border: 1px solid white;
+    border-spacing: 0;
+    -o-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+#plan-basico table tr th{
+    background-color: #068CD4;
+    border-right: 1px solid black;
+    -o-border-radius: 10px 0px 0px 10px;
+    -webkit-border-radius: 10px 0px 0px 10px;
+    -moz-border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 0px 0px 10px;
+    color:white;
+    padding: 8px;
+}
+#plan-basico table tr td{
+    background-color: #CFCFCF;
+    border-right: 1px solid black;
+    padding: 8px;
+}
+#plan-basico table tr td:last-child{
+    border:none;
+    -o-border-radius: 0px 10px 10px 0px;
+    -webkit-border-radius: 0px 10px 10px 0px;
+    -moz-border-radius: 0px 10px 10px 0px;
+    border-radius: 0px 10px 10px 0px;
+}
+/*----FIN PLAN-----*/
+
+
+/*------INICO HOST------*/
+#host{
+    background-image: url("../imagenes/fondo-n-4.png");
+    border: 1px solid pink;
+    font-size: 0;
+    text-align: center;
+}
+#host table{
+    border: 1px solid white;
+    border-spacing: 0;
+    -o-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 2%;
+}
+#host table tr th{
+    background-color: #FF6C32;
+    border-bottom:1px solid white;
+    color:white;
+}
+#host table tr td{
+    background-color: #CFCFCF;
+    border-bottom:1px solid white;
+    padding: 8px;
+}
+#host table tr:last-child td{
+    border:transparent;
+}
+/*------FIN HOST------*/
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:750px){
+    nav ul{
+        width: 80%;
+    }
+}
+
+
+@media only screen and (max-width:670px){
+    header{
+        text-align: center;
+    }
+    header ul{
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+    }
+    .titulo-logo{
+        display: inline-block;
+        position: none;
+        margin: 0;
+    }
+    nav ul{
+        width: 90%;
+    }
+    #plan-basico table{
+        width: 90%;
+    }
+    #plan-basico table tr td{
+        display: block;
+        border:transparent;
+    }
+    #plan-basico table tr td:last-child{
+        -o-border-radius: 0px 0px 10px 0px;
+        -webkit-border-radius: 0px 0px 10px 0px;
+        -moz-border-radius: 0px 0px 10px 0px;
+        border-radius: 0px 0px 10px 0px;
+    }
+    #plan-basico table tr td:nth-child(2){
+        -o-border-radius: 0px 10px 0px 0px;
+        -webkit-border-radius: 0px 10px 0px 0px;
+        -moz-border-radius: 0px 10px 0px 0px;
+        border-radius: 0px 10px 0px 0px;
+    }
+}
