@@ -241,7 +241,6 @@ table tr td img{
 /*------SECTION (DESCRIPCION PLANES)*/
 #des-tablas{
     background-image: url("../../imagenes/fondo-n-4.png");
-<<<<<<< HEAD
     border: 1px solid transparent;
 }
 #des-tablas h2{
@@ -266,8 +265,6 @@ table tr td img{
 }
 #des-tablas article:hover{
     background-color: rgba(255,255,255,.5);
-=======
->>>>>>> 2e990556a49d4f3bb29b43eb12d16fac6a5fc8e6
 }
 /*------FIN SECTION (DESCRIPCION PLANES)*/
 
@@ -293,19 +290,19 @@ footer{
     }
 }
 
-@media only screen and (max-width:1041px){
+@media only screen and (max-width:1068px){
     table tr td img{
         height: 113px;
     }
 }
 
-@media only screen and (max-width:889px){
+@media only screen and (max-width:914px){
     #tablas article{
         width: 90%;
     }
 }
 
-@media only screen and (max-width:800px){
+@media only screen and (max-width:813px){
     .pack1,.pack2,.pack3{
         margin-bottom: 20px;
         margin-left: 3%;
