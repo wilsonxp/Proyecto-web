@@ -31,7 +31,7 @@
                         <a href="">¿Quienes somos?</a>
                     </li>
                     <li class="li3">
-                        <a href="">Contacto</a>
+                        <a href="contacto.php">Contacto</a>
                     </li>
                 </ul>
             </nav>

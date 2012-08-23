@@ -49,7 +49,7 @@
                         </div>    
                     </li>
                     <li class="li3">
-                        <a href="#">
+                        <a href="contacto.php">
                             <div class="caja3">
                                 <p>Contacto</p>
                                 <?php include("imagenes/imagen3.php");?>

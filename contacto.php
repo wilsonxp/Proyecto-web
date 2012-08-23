@@ -1,10 +1,10 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>Contacto</title>
 	<link  type="text/css" rel="stylesheet" href="css/general/reset.css"/>
-	<link rel="stylesheet" type="text/css" href="css/contacto.css" media="all">
+	<link rel="stylesheet" type="text/css" href="css/contacto.css">
 </head>
 <body>
 	<div id="contenido">
@@ -27,13 +27,30 @@
                     <a href="">¿Quienes somos?</a>
                 </li>
                 <li class="li3">
-                    <a href="">Contacto</a>
+                    <a href="contacto.php">Contacto</a>
                 </li>
             </ul>
         </nav>
+        <h2>
+            Formulario de contacto
+        </h2>
         <section id="sec-formulario">
-        	<form action="enviado.php" method="post">
-        		<input type="text"/>
+        	<form action="#" method="post" enctype="form/multipart">
+        		<div class="entradas">
+        			<p>Nombre</p><input type="name" autofocus>
+        		</div>
+        		<div class="entradas">
+        			<p>Email</p><input type="email">
+        		</div>
+        		<div class="entradas">
+        			<p>Asunto</p><input type="text">
+        		</div>
+        		<div class="entradas">
+        			<p>Consulta</p><textarea></textarea>
+        		</div>
+        		<div>
+        			<input type="submit" value="Enviar" name="enviar">
+        		</div>
         	</form>
         </section>
 	</div>
