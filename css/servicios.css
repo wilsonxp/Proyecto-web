@@ -4,7 +4,7 @@ body{
 /*-------------HEADER----------*/
 header{
     /*background-color: black;*/
-    background-image: url("../../imagenes/asfalt.png");
+    background-image: url("../imagenes/asfalt.png");
     -webkit-box-shadow: 0px 5px 3px 0px black;
     -moz-box-shadow: 0px 5px 3px 0px black;
     -o-box-shadow: 0px 5px 3px 0px black;
@@ -38,11 +38,11 @@ header ul li{
 
 /*MENU DE NAVEGACION*/
 nav{
-    background-image: url("../../imagenes/fondo-n-4.png");
+    background-image: url("../imagenes/fondo-n-4.png");
     text-align: center;
 }
 nav ul{
-    background-image: url("../../imagenes/asfalt.png");
+    background-image: url("../imagenes/asfalt.png");
     -webkit-box-shadow: 0px 5px 3px 0px black;
     -moz-box-shadow: 0px 5px 3px 0px black;
     -o-box-shadow: 0px 5px 3px 0px black;
@@ -79,7 +79,7 @@ nav ul li a{
 
 /*--------INICIO BIENVENIDA--------*/
 #bienvenida{
-    background-image: url("../../imagenes/fondo-n-4.png");
+    background-image: url("../imagenes/fondo-n-4.png");
 }
 #bienvenida p{
     border-bottom: 1px solid #959595;
@@ -93,7 +93,7 @@ nav ul li a{
 
 /*----INICIO SECTION (CAJAS)----*/
 #tablas{
-    background-image: url("../../imagenes/fondo-n-4.png");
+    background-image: url("../imagenes/fondo-n-4.png");
     border:1px solid transparent;
 }
 #tablas article{
@@ -240,7 +240,7 @@ table tr td img{
 
 /*------SECTION (DESCRIPCION PLANES)*/
 #des-tablas{
-    background-image: url("../../imagenes/fondo-n-4.png");
+    background-image: url("../imagenes/fondo-n-4.png");
     border: 1px solid transparent;
 }
 #des-tablas h2{

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Contacto</title>
-	<link  type="text/css" rel="stylesheet" href="css/general/reset.css"/>
+	<link  type="text/css" rel="stylesheet" href="css/reset.css"/>
 	<link rel="stylesheet" type="text/css" href="css/contacto.css">
 </head>
 <body>

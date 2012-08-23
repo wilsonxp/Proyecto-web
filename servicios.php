@@ -3,11 +3,8 @@
     <head>
         <title>Titulo de la web</title>
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
-        <link  type="text/css" rel="stylesheet" href="css/general/reset.css"/>
+        <link  type="text/css" rel="stylesheet" href="css/reset.css"/>
         <link  type="text/css" rel="stylesheet" href="css/servicios/servicios.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 5000px)" href="css/servicios/res1025-servicios.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 1024px)" href="css/servicios/res1024-servicios.css"/>
-        <link  type="text/css" rel="stylesheet" media="screen and (max-device-width: 800px)" href="css/servicios/res600.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     </head>
     <body>
