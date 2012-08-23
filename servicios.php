@@ -4,7 +4,7 @@
         <title>Titulo de la web</title>
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
         <link  type="text/css" rel="stylesheet" href="css/reset.css"/>
-        <link  type="text/css" rel="stylesheet" href="css/servicios/servicios.css"/>
+        <link  type="text/css" rel="stylesheet" href="css/servicios.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     </head>
     <body>

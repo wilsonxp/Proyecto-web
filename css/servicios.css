@@ -71,6 +71,12 @@ nav ul li a{
     text-decoration:none;
     font-weight: bold;
 }
+nav ul li a:hover{
+    -moz-text-shadow:0px 0px 20px #ffffff;
+    -o-text-shadow:0px 0px 20px #ffffff;
+    -webkit-text-shadow:0px 0px 20px #ffffff;
+    text-shadow:0px 0px 20px #ffffff;
+}
 .li2{
     border-left: 1px solid #464646;
     border-right:1px solid #464646;
