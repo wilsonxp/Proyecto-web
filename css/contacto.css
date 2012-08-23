@@ -1,0 +1,119 @@
+body{
+    font-family: arial, verdana, sans-serif;
+}
+/*-------------HEADER----------*/
+header{
+    /*background-color: black;*/
+    background-image: url("../imagenes/asfalt.png");
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+}
+header ul{
+    float: right;
+    margin-top: 23.715px;
+    margin-right: 8%;
+
+}
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 10px;
+}
+.titulo-logo{
+    display: inline-block;
+    padding: 17px;
+    margin-left: 8%;
+}
+.iconos {
+    width: 35px;
+    height: 35px;
+}
+
+/*-----------FIN HEADER---------*/
+
+/*MENU DE NAVEGACION*/
+nav{
+    background-image: url("../imagenes/fondo-n-4.png");
+    text-align: center;
+}
+nav ul{
+    background-image: url("../imagenes/asfalt.png");
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
+    border-radius: 0px 0px 10px 10px;
+    display: inline-block;
+    font-size: 0;
+    margin-top: -2px;
+    text-align: center;
+    vertical-align: top;
+    width: 60%;
+}
+nav ul li{
+    box-sizing:border-box;
+    display: inline-block;
+    font-size: 16px;
+    list-style:none;
+    text-align: center;
+    vertical-align: top;
+    width:33%;
+}
+nav ul li a{
+    color: white;
+    display: block;
+    padding: 7px 0;
+    text-decoration:none;
+    font-weight: bold;
+}
+.li2{
+    border-left: 1px solid #464646;
+    border-right:1px solid #464646;
+}
+/*----FIN MENU NAVEGACION----*/
+
+
+/*-----SECCION FORMULARIO-----*/
+#sec-formulario{
+    background-image: url("../imagenes/fondo-n-4.png");
+}
+/*----FIN SECCIOM FORMULARIO-----*/
+
+
+
+
+
+
+
+@media only screen and (max-width:750px){
+    nav ul{
+        width: 80%;
+    }
+}
+
+
+
+@media only screen and (max-width:670px){
+    header{
+        text-align: center;
+    }
+    header ul{
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+    }
+    .titulo-logo{
+        display: inline-block;
+        position: none;
+        margin: 0;
+        /*margin-right: 7%;*/
+    }
+    nav ul{
+        width: 90%;
+    }
+}
