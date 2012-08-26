@@ -263,12 +263,14 @@ table tr td img{
     margin-top: 20px;
 }
 #des-tablas article{
-    color: #D8D8D8;
+    background-image: url("../imagenes/fondo-n-4.png");
+    color: #313131;
     width: 80%;
     margin: 30px auto;
     padding: 10px;
 }
 #des-tablas article:nth-child(2){
+    background-color: rgba(255,255,255,.8);
     border: 3px outset #848484;
     border-radius: 10px;
 }
