@@ -33,7 +33,7 @@
                         </a>
                         <div class="descripcion">
                             <p>Curabitur sit amet sem erat. Suspendisse id odio non lectus placerat commodo. Proin mattis pretium nisi sed consequat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>  
-                            <a href="#">Ofertas</a>
+                            <a href="oferta.php">Ofertas</a>
                         </div>    
                     </li>
                     <li class="li2">
