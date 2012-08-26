@@ -31,27 +31,32 @@
                 </li>
             </ul>
         </nav>
-        <h2>
+        <!--<h2>
             Formulario de contacto
-        </h2>
+        </h2>-->
         <section id="sec-formulario">
-        	<form action="#" method="post" enctype="form/multipart">
-        		<div class="entradas">
-        			<p>Nombre</p><input type="name" autofocus>
-        		</div>
-        		<div class="entradas">
-        			<p>Email</p><input type="email">
-        		</div>
-        		<div class="entradas">
-        			<p>Asunto</p><input type="text">
-        		</div>
-        		<div class="entradas">
-        			<p>Consulta</p><textarea></textarea>
-        		</div>
-        		<div>
-        			<input type="submit" value="Enviar" name="enviar">
-        		</div>
-        	</form>
+                	<form action="#" method="post" enctype="form/multipart">
+                            <h2>Formulario de contacto</h2>
+                            <div class="entradas">
+                    			<label>Nombre</label><br/>
+                                <input type="name" autofocus>
+                    		</div>
+                    		<div class="entradas">
+                    			<label>Email</label><br/>
+                                <input type="email">
+                    		</div>
+                    		<div class="entradas">
+                    			<label>Asunto</label><br/>
+                                <input type="text">
+                    		</div>
+                    		<div class="entradas">
+                    			<label>Consulta</label><br/>
+                                <textarea></textarea>
+                    		</div>
+                    		<div>
+                    			<input type="submit" value="Enviar" name="enviar">
+                    		</div>                       
+                	</form>
         </section>
 	</div>
 </body>
