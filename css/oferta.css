@@ -164,6 +164,7 @@ table tr:last-child td{
 #descripcion{
     /*border: 1px solid black;*/
     display: inline-block;
+    text-align: center;
     width: 30%;
 }
 #antes{
@@ -183,7 +184,6 @@ table tr:last-child td{
     color: white;
     display: inline-block;
     font-size: 200%;
-    margin-left: 7%;
     text-align: center;
     width: 80%;
 }
@@ -191,7 +191,7 @@ table tr:last-child td{
     margin-top: 10px;
 }
 .flecha{
-    margin-left: 38%;
+    margin: 0 auto;
 }
 #ahora{
     /*------------------------*/
@@ -217,8 +217,8 @@ table tr:last-child td{
 .contratar{
     /*border: 1px solid black;*/
     font-size: 16px;
+    margin: 0 auto;
     margin-top: 7px;
-    margin-left: 10%;
     width: 80%;
 }
 .contratar a{
