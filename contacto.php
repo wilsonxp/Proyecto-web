@@ -40,7 +40,7 @@
         <section id="sec-formulario">
             <?php
             if($_POST['enviar']){
-                require_once('recaptchalib.php');
+                require_once('includes/recaptchalib.php');
                 $privatekey = "6Le2tdUSAAAAAMFRuXXzOXY-pUAvUCfI9NvwUtLz";
                 $resp = recaptcha_check_answer ($privatekey,
                                             $_SERVER["REMOTE_ADDR"],
@@ -71,7 +71,7 @@
         			<p>Consulta</p><textarea></textarea>
         		</div>
                 <?php
-                    require_once('recaptchalib.php');
+                    require_once('includes/recaptchalib.php');
                     $publickey = "6Le2tdUSAAAAAKCJ0XLC12d6bRWqH8sejj_joqTC";
                     echo recaptcha_get_html($publickey); 
                 ?>
