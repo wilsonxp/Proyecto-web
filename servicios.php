@@ -25,9 +25,12 @@
                         <a href="index.php">Inicio</a>
                     </li>
                     <li class="li2">
-                        <a href="">¿Quienes somos?</a>
+                        <a href="servicios.php">Servicios</a>
                     </li>
                     <li class="li3">
+                        <a href="">¿Quienes somos?</a>
+                    </li>
+                    <li class="li4">
                         <a href="contacto.php">Contacto</a>
                     </li>
                 </ul>
