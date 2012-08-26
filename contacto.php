@@ -24,9 +24,12 @@
                     <a href="index.php">Inicio</a>
                 </li>
                 <li class="li2">
-                    <a href="">¿Quienes somos?</a>
+                    <a href="servicios.php">Servicios</a>
                 </li>
                 <li class="li3">
+                    <a href="">¿Quienes somos?</a>
+                </li>
+                <li class="li4">
                     <a href="contacto.php">Contacto</a>
                 </li>
             </ul>
@@ -35,6 +38,25 @@
             Formulario de contacto
         </h2>
         <section id="sec-formulario">
+            <?php
+            if($_POST['enviar']){
+                require_once('recaptchalib.php');
+                $privatekey = "6Le2tdUSAAAAAMFRuXXzOXY-pUAvUCfI9NvwUtLz";
+                $resp = recaptcha_check_answer ($privatekey,
+                                            $_SERVER["REMOTE_ADDR"],
+                                            $_POST["recaptcha_challenge_field"],
+                                            $_POST["recaptcha_response_field"]);
+
+                if (!$resp->is_valid) {
+                    // What happens when the CAPTCHA was entered incorrectly
+                    die ("No coincide el codigo de verificacion" .
+                         "(reCAPTCHA said: " . $resp->error . ")");
+                } else {
+                    echo "mensaje enviado correctamente";
+                }
+            }
+           ?>
+
         	<form action="#" method="post" enctype="form/multipart">
         		<div class="entradas">
         			<p>Nombre</p><input type="name" autofocus>
@@ -48,7 +70,13 @@
         		<div class="entradas">
         			<p>Consulta</p><textarea></textarea>
         		</div>
-        		<div>
+                <?php
+                    require_once('recaptchalib.php');
+                    $publickey = "6Le2tdUSAAAAAKCJ0XLC12d6bRWqH8sejj_joqTC";
+                    echo recaptcha_get_html($publickey); 
+                ?>
+
+        		<div id="enviar">
         			<input type="submit" value="Enviar" name="enviar">
         		</div>
         	</form>

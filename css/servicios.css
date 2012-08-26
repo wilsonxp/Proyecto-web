@@ -65,7 +65,7 @@ nav ul li{
     list-style:none;
     text-align: center;
     vertical-align: top;
-    width:33%;
+    width:25%;
 }
 nav ul li a{
     color: white;
@@ -83,6 +83,9 @@ nav ul li a:hover{
 .li2{
     border-left: 1px solid #464646;
     border-right:1px solid #464646;
+}
+.li3{
+    border-right:1px solid #464646;   
 }
 /*----FIN MENU NAVEGACION----*/
 

@@ -1,6 +1,8 @@
 body{
-    background-image: url("../imagenes/fondo-n-4.png");
     font-family: arial, verdana, sans-serif;
+}
+#contenido{
+    background-image: url("../imagenes/fondo-n-4.png");
 }
 /*-------------HEADER----------*/
 header{
@@ -63,7 +65,7 @@ nav ul li{
     list-style:none;
     text-align: center;
     vertical-align: top;
-    width:33%;
+    width:25%;
 }
 nav ul li a{
     color: white;
@@ -81,6 +83,9 @@ nav ul li a:hover{
 .li2{
     border-left: 1px solid #464646;
     border-right:1px solid #464646;
+}
+.li3{
+    border-right:1px solid #464646;   
 }
 /*----FIN MENU NAVEGACION----*/
 
@@ -128,7 +133,7 @@ h2{
     border-radius: 5px;
     padding: 2px;
 }
-#sec-formulario form div:last-child input{
+#sec-formulario form #enviar input{
     /*------------------------*/
     background: #8ae079; /* Old browsers */
     /* IE9 SVG, needs conditional override of 'filter' to 'none' */
@@ -149,6 +154,7 @@ h2{
     color: white;
     font-size: 105%;
     font-weight: bold;
+    margin-top: 10px;
     padding:10px 20px;
 }
 /*------FIN SECCION FORMULARIO------*/
