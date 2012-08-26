@@ -252,16 +252,18 @@ table tr td img{
 
 /*------SECTION (DESCRIPCION PLANES)*/
 #des-tablas{
-    background-color: rgba(0,0,0,.1);
+    background-color: rgba(0,0,0,.6);
     border-top: 1px solid rgba(104,104,104,.1);
     padding:20px 0;
 }
 #des-tablas h2{
+    color: #F3F3F3;
     margin-left: 10%;
     margin-bottom: 20px;
     margin-top: 20px;
 }
 #des-tablas article{
+    color: #D8D8D8;
     width: 80%;
     margin: 30px auto;
     padding: 10px;
