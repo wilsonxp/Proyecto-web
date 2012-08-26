@@ -267,7 +267,7 @@ table tr td img{
     padding: 10px;
 }
 #des-tablas article:nth-child(2){
-    border: 1px solid #848484;
+    border: 3px outset #848484;
     border-radius: 10px;
 }
 #des-tablas article:nth-child(3){
