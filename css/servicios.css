@@ -278,11 +278,11 @@ table tr td img{
     margin: 0 auto;
     margin-bottom: 20px;
     padding: 10px;
-    -webkit-transition: background-color 1s ease-out;
+    /*-webkit-transition: background-color 1s ease-out;
     -moz-transition: background-color 1s ease-out;
     -ms-transition: background-color 1s ease-out;
     -o-transition: background-color 1s ease-out;
-    transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;*/
     width: 80%;
 }
 #des-tablas article:last-child{
