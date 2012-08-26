@@ -272,6 +272,7 @@ table tr td img{
 }
 #des-tablas article:nth-child(3){
     border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
     border-radius: 10px;
 }
 #des-tablas article:nth-child(4){
