@@ -65,7 +65,7 @@ nav ul li{
     list-style:none;
     text-align: center;
     vertical-align: top;
-    width:25%;
+    width:24.7%;
 }
 nav ul li a{
     color: white;
@@ -91,31 +91,34 @@ nav ul li a:hover{
 
 
 h2{
+    color:#5D5D5D;
     margin: 0 auto;
-    margin-top: 60px;
-    width: 60%;
+    margin-bottom: 40px;
+    text-shadow: 0px 0px 0px black;
 }
 
 /*------SECCION FORMULARIO------*/
 #sec-formulario{
     background-image: url("../imagenes/fondo-n-4.png");
+    margin-top: 60px;
+    /*border: 1px solid black;*/
 }
 #sec-formulario form{
-    /*border:1px solid black;*/
+    border: 7px solid white;
+    border-radius: 15px;
     color:#232323;
     margin: 0 auto;
-    padding: 50px 0;
+    padding: 15px 20px 50px 20px;
     width: 60%;
 }
 .entradas{
     /*border: 1px solid red;*/
     margin-bottom: 30px;
 }
-.entradas p{
-    font-size: 95%;
+.entradas label{
     margin-bottom: 2px;
 }
-#sec-formulario form div:nth-child(4) textarea{
+#sec-formulario form div:nth-child(5) textarea{
     border: 1px solid #5D5D5D;
     -webkit-border-radius: 8px;
     -o-border-radius: 8px;
@@ -158,6 +161,14 @@ h2{
     padding:10px 20px;
 }
 /*------FIN SECCION FORMULARIO------*/
+
+/*-----------FOOTER-----------------*/
+footer{
+    background: black;
+    color: white;
+    padding-top:5px;
+}
+/*-----FIN FOOTER-------*/
 
 
 
