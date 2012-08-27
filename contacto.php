@@ -27,9 +27,12 @@
                     <a href="servicios.php">Servicios</a>
                 </li>
                 <li class="li3">
-                    <a href="">¿Quienes somos?</a>
+                    <a href="oferta.php">Ofertas</a>
                 </li>
                 <li class="li4">
+                    <a href="">¿Quienes somos?</a>
+                </li>
+                <li class="li5">
                     <a href="contacto.php">Contacto</a>
                 </li>
             </ul>
