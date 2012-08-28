@@ -20,7 +20,7 @@
                 </ul>            
             </header>
             <div id="bienvenida">
-                <p><span>Bienvenido</span> a Vidaweb, el lugar en donde podrás llevar a cabo tu negocio, tu hobby y hasta tu sueño. Somos una empresa de desarrollo de aplicaciónes web, entre ellas, páginas web. Hacemos uso de las últimas tecnologías para estar siempre a la vanguardia.<br/><br/> Te invitamos a navegar en nuestro sitio y ver los servicios que te proponemos según tus necesidades. <br/><br/>Apostamos por un servicio personalizado en donde usted decidirá lo que quiere. Creemos que es necesario que el cliente conozca y pueda “tomarse un café” con la empresa que contrato.</p>
+                <p><span>Bienvenido</span> a VidaWeb, el lugar en donde podrás llevar a cabo tu negocio, tu hobby y hasta tu sueño. Somos una empresa de desarrollo y diseño de aplicaciónes web, entre ellas, páginas web. Hacemos uso de las últimas tecnologías para estar siempre a la vanguardia.<br/> Te invitamos a navegar en nuestro sitio y ver los servicios que te proponemos según tus necesidades. <br/>Apostamos por un servicio personalizado en donde usted decidirá lo que quiere. Creemos que es necesario que el cliente conozca y pueda “tomarse un café” con la empresa que contrato.</p>
             </div>
             <nav>
                 <ul>
@@ -32,7 +32,7 @@
                             </div>
                         </a>
                         <div class="descripcion">
-                            <p>Aca podras ver todos los servicios que ofrecemos y elegir el que mejor se ajuste a tus medias, tenemos para todos los gustos y precios.</p>  
+                            <p>Acá podras ver todos los servicios que ofrecemos y elegir el que mejor se ajuste a tus medias, tenemos para todos los gustos y precios.</p>  
                             <a href="oferta.php">Ofertas</a>
                         </div>    
                     </li>
@@ -57,7 +57,7 @@
                         </a>
                         <div class="descripcion">
                             <p>Si tienes dudas, sobre lo que hacemos, cómo lo hacemos o cualquier otra inquietud, en esta sección podrás hacer cualquier consulta y la trataremos de responder en la brevedad.</p>
-                            <a href="#">Mopitz</a>
+                            <a href="#">Redes Sociales</a>
                         </div>   
                     </li>
                 </ul>
@@ -69,8 +69,8 @@
                     <p>Tener un sitio Web hoy día es de grán importancia para la estrategia de cualquier tipo de negocio o emprendimiento.
                         Sobre todo si consideramos que cada ves es mayor la tendencia de la mayoría de las personas a buscar en internet 
                         cuando estan pensando en comprar o en contratar cualquier tipo de producto o servicio con el fin de hacer comparaciones
-                        que al final terminarán influenciando su decisión de compra.<br/><br/>
-                        Todos sabemos por ejemplo, que hoy dia  los responsables de compras de cualquier empresa local, nacional o internacional,
+                        que al final terminarán influenciando su decisión de compra.</p>
+                    <p>Todos sabemos por ejemplo, que hoy dia  los responsables de compras de cualquier empresa local, nacional o internacional,
                         utilizan cada vez mas internet como herramienta fundamental de decisiones en este proceso de compras, por lo que la
                         presencia y visibilidad en internet mediante un Sitio Web eficaz se vuelve sumamente esencial.
                         Es por esto que, para causar una buena impresión e inclinar la balanza a nuestro favor hay que tener mucho cuidado
@@ -78,15 +78,17 @@
                     </p>
                 </article>
                 <article class="a2">
+                    <h2>Profesionalismo</h2>
                     <p>No se necesita un Sitio Web muy sofisticado, pero si que trasmita una imagen profesional,
                     con información clara y actualizada de los productos y servicios, que permita lograr objetivos
-                    y, sobre todo, que permita el contacto y comunicación con clientes actuales y potenciales.<br/><br/>
-                    El diseño de un Sitio Web suele ser el punto débil de webs realizadas por personas o empresas
+                    y, sobre todo, que permita el contacto y comunicación con clientes actuales y potenciales.</p>
+                    <p>El diseño de un Sitio Web suele ser el punto débil de webs realizadas por personas o empresas
                     que carecen de experiencia en el tema del marketing y la publicidad en internet. Páginas que
                     apuntan a extremos, dando algunas una sensación de dejadez y otras por el contrario saturadas de
                     animaciones y colores de poco profesionalismo y sin mencionar lo mas importante, las que carecen
-                    del contenido apropiado para el mercado al cual se dirigen, esto si que es un error.<br/><br/>
-                    Si bien, el contenido es lo más importante, el contexto que lo acompaña aumentara considerablemente
+                    del contenido apropiado para el mercado al cual se dirigen, esto si que es un error.
+                    </p>
+                    <p>Si bien, el contenido es lo más importante, el contexto que lo acompaña aumentara considerablemente
                     su valor y credibilidad.
                     </p>
                 </article>
