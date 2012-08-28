@@ -91,9 +91,6 @@ nav ul li a{
     color: white;
     text-decoration:none;
 }
-nav ul li a div p{
-    /*font-size:100%;*/
-}
 
 .caja1{
     /*------------------------*/
@@ -183,7 +180,7 @@ nav ul li a div p{
     -webkit-box-shadow: 0px 7px 1px 0px #292929;
     box-shadow: 0px 3px 4px 0px #292929; 
     height: 180px;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 900;
     /*width: 100%;*/
     min-width: 170px;
@@ -196,14 +193,13 @@ nav ul li a div p{
     /*border: 1px solid black;*/
     margin-top: 10px;
     color: #3D3D3D; 
-    font-size: 110%;
+    font-size: 95%;
     margin: 15px;
 }
-.descripcion p{
-    text-align: center;
-}
+
 .descripcion a{
     display: inline-block;
+    font-size: 110%;
 }
 .li1 div a{
     border-radius: 10px;
@@ -300,7 +296,7 @@ article{
 
 /*-----------FOOTER-----------------*/
 footer{
-    background: #c3c3c3;
+    background: rgba(0,0,0,1);
     color: white;
     padding-top:5px;
 }

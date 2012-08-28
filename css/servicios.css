@@ -248,7 +248,7 @@ table tr td img{
 
 /*------SECTION (DESCRIPCION PLANES)*/
 #des-tablas{
-    background-color: rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.1);
     border-top: 1px solid rgba(104,104,104,.1);
     padding:20px 0;
 }

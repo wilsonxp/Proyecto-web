@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Titulo de la web</title>
+        <title>Vida Web</title>
         <script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
         <link  type="text/css" rel="stylesheet" href="css/reset.css"/>
         <link  type="text/css" rel="stylesheet" href="css/index.css"/>
@@ -32,7 +32,7 @@
                             </div>
                         </a>
                         <div class="descripcion">
-                            <p>Acá podras ver todos los servicios que ofrecemos y elegir el que mejor se ajuste a tus medias, tenemos para todos los gustos y precios.</p>  
+                            <p>Acá podrás ver todos los servicios que ofrecemos y elegir el que mejor se ajuste a tus medias, tenemos para todos los gustos y precios.</p>  
                             <a href="oferta.php">Ofertas</a>
                         </div>    
                     </li>
