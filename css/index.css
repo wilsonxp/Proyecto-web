@@ -277,7 +277,11 @@ article{
 .a1{
     border-right:1px solid #D1D1D1;
 }
+.a1 p{
+    margin-top: 20px;
+}
 .a2{
+    vertical-align: top;
 }
 /*-------------FIN SECCION-------------*/
 
