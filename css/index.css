@@ -45,7 +45,7 @@ header ul li{
 #bienvenida p{
     /*border-bottom: 1px solid #959595;*/
     color: #3D3D3D;
-    font-family: Georgia;
+    font-family: Georgia,"Times New Roman",Times,serif;
     font-style: italic;
     margin: 0 auto;
     padding-bottom: 30px;
@@ -53,6 +53,7 @@ header ul li{
     /*text-shadow: 0px 0px 0px #959595;*/
     width: 70%;
 }
+
 #bienvenida p span{
     color: #ff8244;/*#ff6816, #ff8244, #ff9370, #2E56B3, #ff935e*/
     font-weight: bold;
@@ -70,6 +71,27 @@ nav{
     padding-bottom: 30px;
     padding-top: 30px; 
     text-align: center;
+    position: relative;
+    -webkit-animation: abre 1s;
+    -o-animation: abre 1s;
+    -moz-animation: abre 1s;
+    animation: abre 1s;
+}
+@keyframes abre{
+    from{ margin-top: -100px;}
+    to{margin-top: 0px; }
+}
+@-webkit-keyframes abre{
+    from{ margin-top: -100px;}
+    to{margin-top: 0px; }
+}
+@-o-keyframes abre{
+    from{ margin-top: -100px;}
+    to{margin-top: 0px; }
+}
+@-moz-keyframes abre{
+    from{ margin-top: -100px;}
+    to{margin-top: 0px; }
 }
 nav ul{
     display:inline-block;
@@ -273,12 +295,33 @@ section{
     background: #EFEFEF;
     box-shadow: 0px 3px 10px 1px;
     font-size: 0;
+    position: relative;
     text-align: center;
+    -webkit-animation: abre2 1.5s;
+    -o-animation: abre2 1.5s;
+    -moz-animation: abre2 1.5s;
+    animation: abre2 1.5s;
+}
+@keyframes abre2{
+    from{ margin-top: -240px;}
+    to{margin-top: 0px; }
+}
+@-webkit-keyframes abre2{
+    from{ margin-top: -240px;}
+    to{margin-top: 0px; }
+}
+@-o-keyframes abre2{
+    from{ margin-top: -240px;}
+    to{margin-top: 0px; }
+}
+@-moz-keyframes abre2{
+    from{ margin-top: -240px;}
+    to{margin-top: 0px; }
 }
 article{
     color: #3D3D3D;
     display: inline-block;
-    font-family: Georgia;
+    font-family: Georgia,"Times New Roman",Times,serif;
     font-size: 16px;
     width: 36%;
     padding: 2%;
