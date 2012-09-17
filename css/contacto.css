@@ -1,5 +1,5 @@
 body{
-    font-family: arial, verdana, sans-serif;
+    font-family: Georgia,"Times New Roman",Times,serif;
 }
 #contenido{
     background-image: url("../imagenes/fondo-n-4.png");
@@ -41,7 +41,7 @@ header ul li{
 
 /*MENU DE NAVEGACION*/
 nav{
-    background-image: url("../imagenes/fondo-n-4.png");
+    font-family: arial, verdana, sans-serif;
     text-align: center;
 }
 nav ul{
@@ -96,13 +96,15 @@ h2{
 
 /*------SECCION FORMULARIO------*/
 #sec-formulario{
-    background-image: url("../imagenes/fondo-n-4.png");
     margin-top: 60px;
     /*border: 1px solid black;*/
 }
 #sec-formulario form{
+    /*background: rgba(220,220,220,.1);*/
     border: 7px solid white;
     border-radius: 15px;
+    -webkit-box-shadow: inset 0px 0px 3px 0px ;
+    box-shadow: inset 0px 0px 3px 0px ; 
     color:#232323;
     margin: 0 auto;
     padding: 15px 20px 50px 20px;
