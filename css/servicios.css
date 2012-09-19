@@ -291,11 +291,50 @@ table tr td img{
     display: inline-block;
     font-size: 16px;
     margin: 20px .5% auto;
-    padding: 23px;
+    padding: 25px;
     text-align: left;
     vertical-align: top;
     width: 12%;
 }
+
+#basico{
+    -moz-transform: scale(1) rotate(-10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -webkit-transform: scale(1) rotate(-10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -o-transform: scale(1) rotate(-10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -ms-transform: scale(1) rotate(-10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1) rotate(-10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); 
+}
+#medio{
+    -moz-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -webkit-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -o-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -ms-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); 
+}
+#avanzado{
+    position: relative;
+    -moz-transform: scale(1) rotate(1deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -webkit-transform: scale(1) rotate(1deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -o-transform: scale(1) rotate(1deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -ms-transform: scale(1) rotate(1deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1) rotate(1deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); 
+}
+#aplicacion{
+    -moz-transform: scale(1) rotate(5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -webkit-transform: scale(1) rotate(5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -o-transform: scale(1) rotate(5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -ms-transform: scale(1) rotate(5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1) rotate(5deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); 
+}
+#dinamico{
+    -moz-transform: scale(1) rotate(10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -webkit-transform: scale(1) rotate(10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -o-transform: scale(1) rotate(10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    -ms-transform: scale(1) rotate(10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
+    transform: scale(1) rotate(10deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg); 
+}
+
+
 /*
 #des-tablas article:nth-child(2){
     background-color: rgba(255,255,255,.8);
@@ -343,6 +382,10 @@ footer{
         margin-left: 0.5%;
         width: 19.6%;
     }
+    /*tablas*/
+    #des-tablas article{
+        width: 13%;
+    }
 }
 
 @media only screen and (max-width:1239px){
@@ -384,6 +427,10 @@ footer{
     .pack4, .pack5{
         margin-left: 3%;
         width: 33%;
+    }
+    /*tablas*/
+    #des-tablas article{
+        width: 24%;
     }
 }
 
@@ -432,6 +479,10 @@ footer{
     }
     .pack4 table tr td img{
         height: 94px;
+    }
+    /*tablas*/
+    #des-tablas article{
+        width: 36%;
     }
 }
 
