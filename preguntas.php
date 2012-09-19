@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>preguntas</title>
 	<script type="text/javascript" src="js/modernizr.custom.79584.js"></script>
     <link  type="text/css" rel="stylesheet" href="css/reset.css"/>
 	<link rel="stylesheet" type="text/css" href="css/preguntas.css" media="all">
