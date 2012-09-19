@@ -37,7 +37,7 @@
                         </div>    
                     </li>
                     <li class="li2">
-                        <a href="#">
+                        <a href="quienes_somos.php">
                             <div class="caja2">
                                 <p>¿Quienes somos?</p>
                                 <?php include("imagenes/imagen2.php");?>
@@ -45,7 +45,7 @@
                         </a>
                         <div class="descripcion">
                             <p>Averigua quienes somos, siempre es bueno saber quienes son los que estarán a cargo de tu proyecto. Tratamos de ser lo más transparente posible por lo que en esta sección sabrás los más importante de nosotros.</p>
-                            <a href="#">Preguntas frecuentes</a>
+                            <a href="preguntas.php">Preguntas frecuentes</a>
                         </div>    
                     </li>
                     <li class="li3">

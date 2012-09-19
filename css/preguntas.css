@@ -1,0 +1,162 @@
+body{
+    font-family: Georgia,"Times New Roman",Times,serif;
+}
+#contenido{
+    background-image: url("../imagenes/fondo-n-4.png");
+}
+/*-------------HEADER----------*/
+header{
+    /*background-color: black;*/
+    background-image: url("../imagenes/asfalt.png");
+    background-image: url("../imagenes/asfalt.png");
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+}
+header ul{
+    float: right;
+    margin-top: 23.715px;
+    margin-right: 8%;
+}
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 10px;
+}
+.titulo-logo{
+    display: inline-block;
+    padding: 17px;
+    margin-left: 8%;
+}
+.iconos {
+    width: 35px;
+    height: 35px;
+}
+
+/*-----------FIN HEADER---------*/
+
+/*MENU DE NAVEGACION*/
+nav{
+    background-color: #EFEFEF;
+    font-family: arial, verdana, sans-serif;
+    text-align: center;
+}
+nav ul{
+    background-image: url("../imagenes/asfalt.png");
+    -webkit-box-shadow: 0px 5px 3px 0px black;
+    -moz-box-shadow: 0px 5px 3px 0px black;
+    -o-box-shadow: 0px 5px 3px 0px black;
+    box-shadow: 0px 5px 3px 0px black;
+    border-radius: 0px 0px 10px 10px;
+    display: inline-block;
+    font-size: 0;
+    margin-top: -2px;
+    text-align: center;
+    vertical-align: top;
+    width: 60%;
+}
+nav ul li{
+    border-left: 1px solid #464646;
+    box-sizing:border-box;
+    display: inline-block;
+    font-size: 16px;
+    list-style:none;
+    text-align: center;
+    vertical-align: top;
+    width:19.5%;
+}
+nav ul li a{
+    color: white;
+    display: block;
+    padding: 7px 0;
+    text-decoration:none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    -moz-text-shadow:0px 0px 20px #ffffff;
+    -o-text-shadow:0px 0px 20px #ffffff;
+    -webkit-text-shadow:0px 0px 20px #ffffff;
+    text-shadow:0px 0px 20px #ffffff;
+}
+nav ul li:first-child{
+    border-left: none;
+}
+/*----FIN MENU NAVEGACION----*/
+
+/*--------INICIO BIENVENIDA--------*/
+#preguntas{
+    background-color: #EFEFEF;
+/*---------FIN BIENVENIDA----------*/
+
+
+
+
+
+/*-----------FOOTER-----------------*/
+footer{
+    background: black;
+    color: white;
+    padding-top:5px;
+}
+/*-----FIN FOOTER-------*/
+
+
+
+@media only screen and (max-width:1239px){
+    nav ul{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width:914px){
+    nav ul{
+        width: 90%;
+    }
+}
+
+
+@media only screen and (max-width:813px){
+    nav ul{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:710px){
+    nav ul li a{
+        height: 33px;
+    }
+}
+
+@media only screen and (max-width:670px){
+    header{
+        text-align: center;
+    }
+    header ul{
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+    }
+    .titulo-logo{
+        display: inline-block;
+        position: none;
+        margin: 0;
+        /*margin-right: 7%;*/
+    }
+}
+
+@media only screen and (max-width:451px){
+    nav ul li{
+        width: 32%;
+    }
+    nav ul li:nth-child(4),nav ul li:nth-child(5){
+        width: 48%
+    }
+    nav ul li:nth-child(4){
+        border-left: none;
+    }
+}
