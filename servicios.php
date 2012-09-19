@@ -39,7 +39,13 @@
                 </ul>
             </nav>
             <div id="bienvenida">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p>A continuación te mostramos todos los planes disponibles. Hemos creado
+                estos planes de tal forma que nadie se quede sin una opción, es por eso que
+                en caso que por alguna razón ninguno de estos planes te acomode, elige el más 
+                cercano y luego cuando te contactemos, nos explicas bien tus requerimientos.
+                Les queremos recordar que estos planes son solo para tener una referencia de
+                lo que quieren al momento de contactarnos con usted, pero siempre se pueden
+                hacer excepciones y estamos dispuestos a la mayor flexibilidad para que se sienta a gusto.</p>
             </div>
             <section id="tablas">
                 <article>
